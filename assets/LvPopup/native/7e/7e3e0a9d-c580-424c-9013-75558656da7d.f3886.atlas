@@ -1,0 +1,13 @@
+
+6873_quan.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_bg_02
+  rotate: false
+  xy: 2, 2
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1

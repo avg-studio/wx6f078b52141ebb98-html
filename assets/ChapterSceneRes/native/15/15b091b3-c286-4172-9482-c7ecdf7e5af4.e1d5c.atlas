@@ -1,0 +1,62 @@
+
+6294_icon.png
+size: 392,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1icon-1
+  rotate: false
+  xy: 206, 5
+  size: 106, 29
+  orig: 108, 31
+  offset: 1, 1
+  index: -1
+1icon-2
+  rotate: false
+  xy: 206, 36
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+1icon-3
+  rotate: false
+  xy: 314, 20
+  size: 20, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+1icon-4
+  rotate: true
+  xy: 361, 33
+  size: 72, 20
+  orig: 72, 21
+  offset: 0, 1
+  index: -1
+1icon-5
+  rotate: false
+  xy: 2, 2
+  size: 100, 103
+  orig: 102, 106
+  offset: 1, 2
+  index: -1
+2icon-1
+  rotate: false
+  xy: 336, 2
+  size: 54, 29
+  orig: 56, 31
+  offset: 1, 1
+  index: -1
+2icon-2
+  rotate: false
+  xy: 283, 42
+  size: 76, 63
+  orig: 78, 65
+  offset: 1, 1
+  index: -1
+2icon-3
+  rotate: false
+  xy: 104, 2
+  size: 100, 103
+  orig: 102, 106
+  offset: 1, 2
+  index: -1

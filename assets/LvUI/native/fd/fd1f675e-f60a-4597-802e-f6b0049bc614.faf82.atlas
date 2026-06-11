@@ -1,0 +1,27 @@
+
+6064_texiao.png
+size: 472,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shizhen-1
+  rotate: true
+  xy: 402, 165
+  size: 102, 61
+  orig: 104, 63
+  offset: 1, 1
+  index: -1
+shizhen-2
+  rotate: false
+  xy: 402, 269
+  size: 68, 120
+  orig: 70, 122
+  offset: 1, 1
+  index: -1
+shizhen-3
+  rotate: true
+  xy: 2, 2
+  size: 387, 398
+  orig: 389, 400
+  offset: 1, 1
+  index: -1

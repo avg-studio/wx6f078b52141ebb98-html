@@ -1,0 +1,34 @@
+
+4045_shuangren.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2r-1
+  rotate: true
+  xy: 41, 330
+  size: 118, 565
+  orig: 118, 566
+  offset: 0, 0
+  index: -1
+2r-2
+  rotate: false
+  xy: 2, 437
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+r-1
+  rotate: true
+  xy: 2, 2
+  size: 326, 644
+  orig: 328, 645
+  offset: 1, 1
+  index: -1
+r-2
+  rotate: true
+  xy: 22, 433
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1

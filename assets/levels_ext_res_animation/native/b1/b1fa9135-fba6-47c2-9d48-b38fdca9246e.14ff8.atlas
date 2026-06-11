@@ -1,0 +1,20 @@
+
+5127_saodi.png
+size: 560,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvyong-1
+  rotate: true
+  xy: 2, 11
+  size: 215, 494
+  orig: 215, 494
+  offset: 0, 0
+  index: -1
+nvyong-2
+  rotate: true
+  xy: 498, 2
+  size: 224, 58
+  orig: 228, 65
+  offset: 4, 4
+  index: -1

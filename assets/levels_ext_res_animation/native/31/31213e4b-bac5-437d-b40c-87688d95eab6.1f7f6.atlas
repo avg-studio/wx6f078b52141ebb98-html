@@ -1,0 +1,20 @@
+
+5131_zhu.png
+size: 608,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lazhu-1
+  rotate: false
+  xy: 549, 458
+  size: 57, 60
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+lazhu-2
+  rotate: true
+  xy: 2, 2
+  size: 516, 545
+  orig: 516, 546
+  offset: 0, 0
+  index: -1

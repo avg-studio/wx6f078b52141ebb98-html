@@ -1,0 +1,20 @@
+
+6771_icon.png
+size: 104,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lb1
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+lb2
+  rotate: true
+  xy: 79, 17
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+3777_girl.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jj-1
+  rotate: true
+  xy: 723, 152
+  size: 280, 407
+  orig: 280, 407
+  offset: 0, 0
+  index: -1
+jj-2
+  rotate: true
+  xy: 2, 218
+  size: 214, 719
+  orig: 214, 719
+  offset: 0, 0
+  index: -1
+mm-1
+  rotate: true
+  xy: 1132, 170
+  size: 262, 392
+  orig: 262, 392
+  offset: 0, 0
+  index: -1
+mm-2
+  rotate: true
+  xy: 2, 2
+  size: 214, 714
+  orig: 214, 714
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,215 @@
+
+4252_girl.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ns-1
+  rotate: true
+  xy: 451, 1663
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+2ns-2
+  rotate: false
+  xy: 1150, 1622
+  size: 438, 154
+  orig: 438, 155
+  offset: 0, 1
+  index: -1
+2ns-3
+  rotate: false
+  xy: 1559, 1314
+  size: 365, 252
+  orig: 365, 252
+  offset: 0, 0
+  index: -1
+2ns-4
+  rotate: false
+  xy: 828, 201
+  size: 885, 548
+  orig: 885, 548
+  offset: 0, 0
+  index: -1
+2ns-5
+  rotate: false
+  xy: 2, 598
+  size: 824, 525
+  orig: 825, 525
+  offset: 0, 0
+  index: -1
+3ns-1
+  rotate: true
+  xy: 903, 976
+  size: 422, 452
+  orig: 424, 454
+  offset: 1, 1
+  index: -1
+4ns-1
+  rotate: false
+  xy: 1805, 1568
+  size: 220, 208
+  orig: 221, 209
+  offset: 0, 0
+  index: -1
+4ns-2
+  rotate: true
+  xy: 2, 1495
+  size: 220, 208
+  orig: 221, 208
+  offset: 1, 0
+  index: -1
+4ns-3
+  rotate: true
+  xy: 586, 1663
+  size: 113, 209
+  orig: 125, 209
+  offset: 0, 0
+  index: -1
+4ns-4
+  rotate: true
+  xy: 936, 1636
+  size: 140, 212
+  orig: 149, 213
+  offset: 9, 0
+  index: -1
+4ns-5
+  rotate: true
+  xy: 2, 1213
+  size: 210, 586
+  orig: 250, 586
+  offset: 40, 0
+  index: -1
+4ns-6
+  rotate: true
+  xy: 485, 1425
+  size: 209, 586
+  orig: 250, 586
+  offset: 41, 0
+  index: -1
+5ns-1
+  rotate: false
+  xy: 1073, 1400
+  size: 484, 220
+  orig: 484, 220
+  offset: 0, 0
+  index: -1
+5ns-2
+  rotate: false
+  xy: 797, 1641
+  size: 137, 135
+  orig: 137, 135
+  offset: 0, 0
+  index: -1
+5ns-3
+  rotate: true
+  xy: 1357, 751
+  size: 561, 621
+  orig: 561, 624
+  offset: 0, 2
+  index: -1
+6ns-1
+  rotate: false
+  xy: 58, 1728
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+6ns-2
+  rotate: false
+  xy: 1590, 1607
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1
+6ns-3
+  rotate: false
+  xy: 212, 1454
+  size: 271, 207
+  orig: 294, 207
+  offset: 0, 0
+  index: -1
+6ns-4
+  rotate: false
+  xy: 2, 2
+  size: 669, 594
+  orig: 669, 595
+  offset: 0, 1
+  index: -1
+lj-1
+  rotate: false
+  xy: 590, 1125
+  size: 311, 298
+  orig: 311, 298
+  offset: 0, 0
+  index: -1
+nothing
+  rotate: false
+  xy: 2, 1774
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+ns-1
+  rotate: false
+  xy: 213, 1686
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: -1
+ns-2
+  rotate: false
+  xy: 325, 1680
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+ns-3
+  rotate: true
+  xy: 6, 1735
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+ns-4
+  rotate: true
+  xy: 130, 1717
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+
+4252_girl2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3ns-2
+  rotate: false
+  xy: 2, 713
+  size: 739, 622
+  orig: 740, 624
+  offset: 0, 1
+  index: -1
+3ns-3
+  rotate: false
+  xy: 743, 713
+  size: 793, 622
+  orig: 794, 624
+  offset: 0, 1
+  index: -1
+3ns-4
+  rotate: false
+  xy: 2, 89
+  size: 739, 622
+  orig: 740, 624
+  offset: 0, 1
+  index: -1
+ns-5
+  rotate: true
+  xy: 743, 2
+  size: 709, 791
+  orig: 709, 792
+  offset: 0, 1
+  index: -1

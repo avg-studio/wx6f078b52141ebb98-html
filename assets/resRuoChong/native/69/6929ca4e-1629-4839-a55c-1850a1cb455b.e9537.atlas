@@ -1,0 +1,13 @@
+
+5DjTx.png
+size: 96,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光效
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 97, 97
+  offset: 2, 1
+  index: -1

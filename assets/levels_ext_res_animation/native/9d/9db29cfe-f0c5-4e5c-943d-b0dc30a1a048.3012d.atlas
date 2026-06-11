@@ -1,0 +1,41 @@
+
+4459_girl.png
+size: 1768,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2chuang-1
+  rotate: true
+  xy: 1143, 17
+  size: 391, 176
+  orig: 393, 178
+  offset: 1, 1
+  index: -1
+2chuang-3
+  rotate: true
+  xy: 2, 2
+  size: 406, 553
+  orig: 414, 557
+  offset: 4, 3
+  index: -1
+chuang-1
+  rotate: true
+  xy: 1554, 52
+  size: 356, 209
+  orig: 358, 211
+  offset: 1, 1
+  index: -1
+chuang-2
+  rotate: false
+  xy: 1321, 18
+  size: 231, 390
+  orig: 233, 390
+  offset: 1, 0
+  index: -1
+chuang-3
+  rotate: true
+  xy: 557, 11
+  size: 397, 584
+  orig: 399, 589
+  offset: 1, 4
+  index: -1

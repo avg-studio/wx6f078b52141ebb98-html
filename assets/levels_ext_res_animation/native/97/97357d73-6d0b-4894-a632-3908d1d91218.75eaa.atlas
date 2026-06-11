@@ -1,0 +1,41 @@
+
+5073_wei.png
+size: 628,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nainai-1
+  rotate: false
+  xy: 2, 3
+  size: 181, 261
+  orig: 250, 429
+  offset: 32, 74
+  index: -1
+nainai-2
+  rotate: false
+  xy: 185, 7
+  size: 179, 257
+  orig: 181, 260
+  offset: 1, 1
+  index: -1
+nainai-3
+  rotate: true
+  xy: 366, 62
+  size: 202, 245
+  orig: 202, 245
+  offset: 0, 0
+  index: -1
+nvpu-1
+  rotate: true
+  xy: 2, 266
+  size: 269, 622
+  orig: 269, 622
+  offset: 0, 0
+  index: -1
+nvpu-2
+  rotate: false
+  xy: 366, 2
+  size: 157, 58
+  orig: 161, 62
+  offset: 2, 2
+  index: -1

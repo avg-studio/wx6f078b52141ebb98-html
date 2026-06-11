@@ -1,0 +1,83 @@
+
+3DjTx.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lf
+  rotate: true
+  xy: 311, 3
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+TX2/baozha00001
+  rotate: true
+  xy: 2, 8
+  size: 77, 129
+  orig: 180, 175
+  offset: 92, 19
+  index: -1
+TX2/baozha00002
+  rotate: false
+  xy: 462, 100
+  size: 141, 154
+  orig: 180, 175
+  offset: 30, 13
+  index: -1
+TX2/baozha00003
+  rotate: false
+  xy: 303, 96
+  size: 157, 158
+  orig: 180, 175
+  offset: 14, 9
+  index: -1
+TX2/baozha00004
+  rotate: true
+  xy: 2, 87
+  size: 167, 157
+  orig: 180, 175
+  offset: 6, 11
+  index: -1
+TX2/baozha00005
+  rotate: true
+  xy: 161, 94
+  size: 160, 140
+  orig: 180, 175
+  offset: 7, 17
+  index: -1
+TX2/baozha00006
+  rotate: true
+  xy: 605, 114
+  size: 140, 115
+  orig: 180, 175
+  offset: 8, 36
+  index: -1
+TX2/baozha00007
+  rotate: false
+  xy: 462, 2
+  size: 128, 96
+  orig: 180, 175
+  offset: 8, 35
+  index: -1
+TX2/baozha00008
+  rotate: true
+  xy: 133, 55
+  size: 30, 86
+  orig: 180, 175
+  offset: 12, 45
+  index: -1
+chuizi
+  rotate: true
+  xy: 605, 13
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+格子
+  rotate: false
+  xy: 221, 4
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

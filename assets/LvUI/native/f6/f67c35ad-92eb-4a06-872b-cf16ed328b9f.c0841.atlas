@@ -1,0 +1,34 @@
+
+6694_aixin.png
+size: 192,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq_icon_02
+  rotate: false
+  xy: 2, 2
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+gq_icon_03
+  rotate: false
+  xy: 60, 3
+  size: 54, 47
+  orig: 55, 48
+  offset: 1, 1
+  index: -1
+gq_icon_04
+  rotate: false
+  xy: 154, 6
+  size: 35, 44
+  orig: 35, 47
+  offset: 0, 2
+  index: -1
+gq_icon_05
+  rotate: false
+  xy: 116, 6
+  size: 36, 44
+  orig: 37, 45
+  offset: 0, 0
+  index: -1

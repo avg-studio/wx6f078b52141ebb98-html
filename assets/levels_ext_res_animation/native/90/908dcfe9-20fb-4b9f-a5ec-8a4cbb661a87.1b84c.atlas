@@ -1,0 +1,27 @@
+
+4955_nv.png
+size: 260,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvren-1
+  rotate: true
+  xy: 239, 5
+  size: 81, 19
+  orig: 82, 20
+  offset: 0, 0
+  index: -1
+nvren-2
+  rotate: false
+  xy: 204, 15
+  size: 33, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+nvren-3
+  rotate: true
+  xy: 2, 2
+  size: 84, 200
+  orig: 84, 201
+  offset: 0, 1
+  index: -1

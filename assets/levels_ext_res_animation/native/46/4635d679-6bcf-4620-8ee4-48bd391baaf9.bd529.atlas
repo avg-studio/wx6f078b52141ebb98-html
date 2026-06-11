@@ -1,0 +1,27 @@
+
+5004_wangba.png
+size: 472,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan
+  rotate: true
+  xy: 243, 122
+  size: 172, 227
+  orig: 189, 229
+  offset: 3, 1
+  index: -1
+nv
+  rotate: false
+  xy: 2, 16
+  size: 239, 278
+  orig: 240, 279
+  offset: 0, 1
+  index: -1
+yizi
+  rotate: true
+  xy: 243, 2
+  size: 118, 217
+  orig: 131, 235
+  offset: 3, 6
+  index: -1

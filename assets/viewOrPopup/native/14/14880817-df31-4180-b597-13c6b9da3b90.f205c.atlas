@@ -1,0 +1,41 @@
+
+6737_hengfu.png
+size: 836,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hf
+  rotate: false
+  xy: 2, 7
+  size: 623, 158
+  orig: 623, 158
+  offset: 0, 0
+  index: -1
+xx_01
+  rotate: true
+  xy: 731, 65
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+xx_02
+  rotate: true
+  xy: 627, 61
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+xx_03
+  rotate: false
+  xy: 731, 2
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+xx_04
+  rotate: false
+  xy: 793, 11
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1

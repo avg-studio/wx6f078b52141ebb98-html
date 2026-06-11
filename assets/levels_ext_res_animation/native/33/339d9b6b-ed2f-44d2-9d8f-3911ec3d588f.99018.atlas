@@ -1,0 +1,13 @@
+
+4992_yan.png
+size: 256,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan
+  rotate: false
+  xy: 2, 2
+  size: 252, 343
+  orig: 258, 343
+  offset: 6, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+3673_mao.png
+size: 161,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz_1
+  rotate: true
+  xy: 2, 145
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+kz_2
+  rotate: false
+  xy: 2, 231
+  size: 96, 41
+  orig: 96, 42
+  offset: 0, 0
+  index: -1
+ld_2
+  rotate: true
+  xy: 2, 274
+  size: 168, 139
+  orig: 168, 139
+  offset: 0, 0
+  index: -1
+wb_1
+  rotate: false
+  xy: 2, 82
+  size: 88, 61
+  orig: 88, 61
+  offset: 0, 0
+  index: -1
+ye_1
+  rotate: false
+  xy: 92, 41
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+yj_2
+  rotate: false
+  xy: 2, 53
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+yj_3
+  rotate: true
+  xy: 115, 2
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+yj_4
+  rotate: true
+  xy: 143, 362
+  size: 80, 7
+  orig: 82, 9
+  offset: 1, 1
+  index: -1
+ys_2
+  rotate: false
+  xy: 94, 112
+  size: 65, 46
+  orig: 65, 47
+  offset: 0, 1
+  index: -1
+zb_2
+  rotate: true
+  xy: 100, 231
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+ze_1
+  rotate: false
+  xy: 94, 160
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+zj_2
+  rotate: false
+  xy: 68, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+zy_2
+  rotate: false
+  xy: 2, 4
+  size: 64, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1

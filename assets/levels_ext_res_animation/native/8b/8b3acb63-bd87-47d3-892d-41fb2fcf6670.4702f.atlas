@@ -1,0 +1,62 @@
+
+5118_woshi2.png
+size: 1948,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: false
+  xy: 569, 122
+  size: 468, 312
+  orig: 476, 316
+  offset: 8, 4
+  index: -1
+deng_guan
+  rotate: true
+  xy: 1039, 16
+  size: 418, 323
+  orig: 418, 323
+  offset: 0, 0
+  index: -1
+deng_kai
+  rotate: true
+  xy: 1364, 16
+  size: 418, 323
+  orig: 418, 323
+  offset: 0, 0
+  index: -1
+gui_shou
+  rotate: false
+  xy: 523, 5
+  size: 83, 88
+  orig: 111, 103
+  offset: 6, 15
+  index: -1
+jing1
+  rotate: true
+  xy: 2, 9
+  size: 84, 519
+  orig: 84, 519
+  offset: 0, 0
+  index: -1
+jing2
+  rotate: true
+  xy: 608, 2
+  size: 118, 375
+  orig: 118, 375
+  offset: 0, 0
+  index: -1
+nan_idle
+  rotate: true
+  xy: 1689, 16
+  size: 418, 257
+  orig: 423, 259
+  offset: 3, 1
+  index: -1
+nv_idle
+  rotate: true
+  xy: 2, 95
+  size: 339, 565
+  orig: 339, 565
+  offset: 0, 0
+  index: -1

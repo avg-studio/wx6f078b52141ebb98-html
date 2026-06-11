@@ -1,0 +1,34 @@
+
+5135_diannao.png
+size: 208,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dn-1
+  rotate: false
+  xy: 129, 86
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+dn-2
+  rotate: true
+  xy: 129, 6
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+dn-3
+  rotate: true
+  xy: 165, 6
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+dn-4
+  rotate: false
+  xy: 2, 2
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1

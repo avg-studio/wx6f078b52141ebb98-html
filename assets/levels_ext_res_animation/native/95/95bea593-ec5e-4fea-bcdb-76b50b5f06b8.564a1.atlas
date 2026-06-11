@@ -1,0 +1,111 @@
+
+4952_wazi1.png
+size: 2012,1632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1heisi
+  rotate: false
+  xy: 2, 783
+  size: 421, 844
+  orig: 422, 844
+  offset: 0, 0
+  index: -1
+1heisi2
+  rotate: false
+  xy: 1437, 630
+  size: 532, 183
+  orig: 532, 183
+  offset: 0, 0
+  index: -1
+1wa
+  rotate: false
+  xy: 1099, 794
+  size: 336, 471
+  orig: 336, 471
+  offset: 0, 0
+  index: -1
+2baisi
+  rotate: false
+  xy: 781, 789
+  size: 316, 838
+  orig: 316, 838
+  offset: 0, 0
+  index: -1
+2wa
+  rotate: true
+  xy: 1049, 2
+  size: 143, 373
+  orig: 143, 373
+  offset: 0, 0
+  index: -1
+3rousi
+  rotate: false
+  xy: 425, 783
+  size: 354, 844
+  orig: 354, 844
+  offset: 0, 0
+  index: -1
+3rousi2
+  rotate: true
+  xy: 1437, 815
+  size: 450, 571
+  orig: 450, 571
+  offset: 0, 0
+  index: -1
+3wa
+  rotate: true
+  xy: 1556, 409
+  size: 219, 453
+  orig: 219, 453
+  offset: 0, 0
+  index: -1
+4hongsi
+  rotate: true
+  xy: 2, 29
+  size: 752, 672
+  orig: 752, 672
+  offset: 0, 0
+  index: -1
+4wa
+  rotate: true
+  xy: 1217, 166
+  size: 462, 337
+  orig: 462, 337
+  offset: 0, 0
+  index: -1
+5wa
+  rotate: false
+  xy: 1556, 12
+  size: 246, 395
+  orig: 246, 395
+  offset: 0, 0
+  index: -1
+5zisi
+  rotate: true
+  xy: 1099, 1267
+  size: 360, 813
+  orig: 360, 813
+  offset: 0, 0
+  index: -1
+5zisi0
+  rotate: true
+  xy: 1217, 631
+  size: 161, 172
+  orig: 161, 172
+  offset: 0, 0
+  index: -1
+5zisi2
+  rotate: false
+  xy: 676, 69
+  size: 371, 712
+  orig: 371, 712
+  offset: 0, 0
+  index: -1
+5zisi3
+  rotate: true
+  xy: 1049, 147
+  size: 640, 166
+  orig: 640, 166
+  offset: 0, 0
+  index: -1

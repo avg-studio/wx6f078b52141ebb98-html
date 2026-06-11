@@ -1,0 +1,20 @@
+
+5911_dianji.png
+size: 208,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang-1
+  rotate: false
+  xy: 2, 2
+  size: 167, 167
+  orig: 171, 171
+  offset: 2, 2
+  index: -1
+guang-2
+  rotate: false
+  xy: 171, 135
+  size: 34, 34
+  orig: 48, 48
+  offset: 7, 7
+  index: -1

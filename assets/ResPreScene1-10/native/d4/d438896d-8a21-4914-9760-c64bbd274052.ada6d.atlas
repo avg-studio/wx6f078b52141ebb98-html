@@ -1,0 +1,41 @@
+
+5521_wenzi.png
+size: 224,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zgm_miao_01
+  rotate: false
+  xy: 48, 2
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+zgm_miao_02
+  rotate: false
+  xy: 92, 2
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+zgm_miao_03
+  rotate: false
+  xy: 136, 2
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+zgm_miao_04
+  rotate: false
+  xy: 180, 2
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+zgm_miao_05
+  rotate: false
+  xy: 2, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1

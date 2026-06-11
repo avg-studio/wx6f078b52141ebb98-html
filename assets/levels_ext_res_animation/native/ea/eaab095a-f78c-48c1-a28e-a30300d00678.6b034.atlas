@@ -1,0 +1,104 @@
+
+4953_wazi2.png
+size: 1944,1528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10huateng
+  rotate: true
+  xy: 1103, 1083
+  size: 440, 835
+  orig: 440, 835
+  offset: 0, 0
+  index: -1
+10wa
+  rotate: false
+  xy: 1692, 76
+  size: 174, 264
+  orig: 174, 264
+  offset: 0, 0
+  index: -1
+6wa
+  rotate: true
+  xy: 1372, 50
+  size: 312, 318
+  orig: 312, 318
+  offset: 0, 0
+  index: -1
+6yuwangwa
+  rotate: true
+  xy: 1103, 688
+  size: 393, 827
+  orig: 393, 827
+  offset: 0, 0
+  index: -1
+6yuwangwa2
+  rotate: true
+  xy: 1868, 101
+  size: 239, 69
+  orig: 239, 69
+  offset: 0, 0
+  index: -1
+7mayouwa
+  rotate: false
+  xy: 571, 708
+  size: 530, 815
+  orig: 530, 815
+  offset: 0, 0
+  index: -1
+7mayouwa2
+  rotate: false
+  xy: 2, 694
+  size: 567, 829
+  orig: 567, 829
+  offset: 0, 0
+  index: -1
+7wa
+  rotate: true
+  xy: 1372, 364
+  size: 322, 434
+  orig: 322, 434
+  offset: 0, 0
+  index: -1
+8leisiwa
+  rotate: true
+  xy: 2, 348
+  size: 344, 799
+  orig: 344, 799
+  offset: 0, 0
+  index: -1
+8leisiwa2
+  rotate: false
+  xy: 827, 2
+  size: 366, 114
+  orig: 366, 114
+  offset: 0, 0
+  index: -1
+8wa
+  rotate: false
+  xy: 1808, 342
+  size: 132, 344
+  orig: 132, 344
+  offset: 0, 0
+  index: -1
+9bodian
+  rotate: true
+  xy: 2, 12
+  size: 334, 823
+  orig: 334, 823
+  offset: 0, 0
+  index: -1
+9bodian2
+  rotate: true
+  xy: 803, 362
+  size: 324, 567
+  orig: 324, 567
+  offset: 0, 0
+  index: -1
+9wa
+  rotate: true
+  xy: 827, 118
+  size: 242, 488
+  orig: 242, 488
+  offset: 0, 0
+  index: -1

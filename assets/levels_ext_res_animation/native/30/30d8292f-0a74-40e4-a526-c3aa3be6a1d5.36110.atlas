@@ -1,0 +1,272 @@
+
+5042_laohu.png
+size: 1632,1344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_00000
+  rotate: true
+  xy: 2, 1057
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00002
+  rotate: true
+  xy: 2, 770
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00004
+  rotate: true
+  xy: 2, 483
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00006
+  rotate: true
+  xy: 2, 196
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00008
+  rotate: false
+  xy: 2, 4
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00010
+  rotate: true
+  xy: 194, 1057
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00012
+  rotate: true
+  xy: 194, 770
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00014
+  rotate: true
+  xy: 194, 483
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00016
+  rotate: true
+  xy: 194, 196
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00018
+  rotate: false
+  xy: 289, 4
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00020
+  rotate: true
+  xy: 386, 1057
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00022
+  rotate: true
+  xy: 386, 770
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00024
+  rotate: true
+  xy: 386, 483
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00026
+  rotate: true
+  xy: 386, 196
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00028
+  rotate: false
+  xy: 576, 4
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00030
+  rotate: false
+  xy: 863, 1152
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00032
+  rotate: true
+  xy: 578, 1057
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00034
+  rotate: false
+  xy: 1150, 1152
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00036
+  rotate: true
+  xy: 1437, 1057
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00038
+  rotate: false
+  xy: 770, 960
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00040
+  rotate: true
+  xy: 578, 770
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00042
+  rotate: false
+  xy: 1057, 960
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00044
+  rotate: false
+  xy: 1344, 865
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00045
+  rotate: false
+  xy: 770, 768
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00048
+  rotate: true
+  xy: 578, 483
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00050
+  rotate: false
+  xy: 1057, 768
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00052
+  rotate: false
+  xy: 1344, 673
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00054
+  rotate: true
+  xy: 578, 196
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00056
+  rotate: true
+  xy: 770, 481
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00058
+  rotate: false
+  xy: 770, 289
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00060
+  rotate: true
+  xy: 962, 481
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00062
+  rotate: true
+  xy: 863, 2
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00064
+  rotate: true
+  xy: 1055, 2
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00066
+  rotate: false
+  xy: 1057, 289
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00068
+  rotate: false
+  xy: 1154, 481
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00070
+  rotate: true
+  xy: 1247, 2
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00072
+  rotate: false
+  xy: 1344, 289
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1
+00_00074
+  rotate: true
+  xy: 1439, 2
+  size: 285, 190
+  orig: 285, 190
+  offset: 0, 0
+  index: -1

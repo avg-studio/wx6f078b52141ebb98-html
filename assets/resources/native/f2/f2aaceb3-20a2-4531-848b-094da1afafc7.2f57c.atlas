@@ -1,0 +1,34 @@
+
+5562_UI.png
+size: 168,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 31
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+jiang
+  rotate: true
+  xy: 105, 10
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+sj
+  rotate: false
+  xy: 105, 58
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 2, 2
+  size: 93, 27
+  orig: 93, 27
+  offset: 0, 0
+  index: -1

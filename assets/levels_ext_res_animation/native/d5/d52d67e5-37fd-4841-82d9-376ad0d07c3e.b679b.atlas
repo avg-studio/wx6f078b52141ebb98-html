@@ -1,0 +1,265 @@
+
+5040_LH147_chaocai.png
+size: 1856,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaocai_00000
+  rotate: false
+  xy: 1406, 318
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00002
+  rotate: false
+  xy: 1407, 150
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00004
+  rotate: false
+  xy: 1546, 318
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00006
+  rotate: false
+  xy: 1547, 150
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00008
+  rotate: false
+  xy: 1686, 318
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00010
+  rotate: false
+  xy: 846, 317
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00012
+  rotate: false
+  xy: 847, 148
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00014
+  rotate: false
+  xy: 986, 317
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00016
+  rotate: false
+  xy: 286, 316
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00018
+  rotate: false
+  xy: 426, 316
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00020
+  rotate: false
+  xy: 426, 146
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00022
+  rotate: false
+  xy: 566, 316
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00024
+  rotate: false
+  xy: 566, 146
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00028
+  rotate: true
+  xy: 2, 2
+  size: 140, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00032
+  rotate: false
+  xy: 2, 315
+  size: 140, 169
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00036
+  rotate: false
+  xy: 2, 144
+  size: 140, 169
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00040
+  rotate: false
+  xy: 144, 316
+  size: 140, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00044
+  rotate: false
+  xy: 706, 316
+  size: 138, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00048
+  rotate: false
+  xy: 987, 148
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00052
+  rotate: false
+  xy: 1126, 317
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00056
+  rotate: true
+  xy: 848, 7
+  size: 139, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00060
+  rotate: true
+  xy: 1352, 7
+  size: 139, 165
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00064
+  rotate: true
+  xy: 1519, 9
+  size: 139, 165
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00068
+  rotate: true
+  xy: 1016, 7
+  size: 139, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00072
+  rotate: true
+  xy: 1686, 10
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00076
+  rotate: false
+  xy: 1687, 150
+  size: 138, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00080
+  rotate: true
+  xy: 510, 5
+  size: 139, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00084
+  rotate: true
+  xy: 172, 4
+  size: 140, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00088
+  rotate: true
+  xy: 341, 4
+  size: 140, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00092
+  rotate: false
+  xy: 1127, 148
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00096
+  rotate: false
+  xy: 1266, 317
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00100
+  rotate: false
+  xy: 1267, 148
+  size: 138, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00104
+  rotate: true
+  xy: 679, 5
+  size: 139, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00108
+  rotate: false
+  xy: 706, 147
+  size: 139, 167
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00112
+  rotate: false
+  xy: 144, 146
+  size: 139, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00116
+  rotate: false
+  xy: 285, 146
+  size: 139, 168
+  orig: 162, 177
+  offset: 15, 6
+  index: -1
+chaocai_00120
+  rotate: true
+  xy: 1184, 7
+  size: 139, 166
+  orig: 162, 177
+  offset: 15, 6
+  index: -1

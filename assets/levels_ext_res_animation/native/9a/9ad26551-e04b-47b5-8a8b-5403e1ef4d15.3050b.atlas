@@ -1,0 +1,76 @@
+
+5026_yuanzi.png
+size: 548,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoyeye-1
+  rotate: true
+  xy: 251, 10
+  size: 177, 143
+  orig: 178, 150
+  offset: 1, 7
+  index: -1
+laoyeye-2
+  rotate: false
+  xy: 471, 452
+  size: 71, 95
+  orig: 71, 100
+  offset: 0, 4
+  index: -1
+laoyeye-3
+  rotate: true
+  xy: 396, 16
+  size: 171, 150
+  orig: 172, 151
+  offset: 1, 1
+  index: -1
+laoyeye-4
+  rotate: true
+  xy: 134, 125
+  size: 62, 115
+  orig: 62, 123
+  offset: 0, 7
+  index: -1
+laoyeye-5
+  rotate: false
+  xy: 2, 121
+  size: 130, 426
+  orig: 141, 441
+  offset: 11, 15
+  index: -1
+laoyeye-6
+  rotate: false
+  xy: 471, 283
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+laoyeye-7
+  rotate: true
+  xy: 143, 23
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+nainai-1
+  rotate: true
+  xy: 471, 358
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+nainai-2
+  rotate: true
+  xy: 134, 189
+  size: 358, 335
+  orig: 358, 335
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 2, 2
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1

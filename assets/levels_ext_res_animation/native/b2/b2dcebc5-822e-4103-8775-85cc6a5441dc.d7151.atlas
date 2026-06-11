@@ -1,0 +1,125 @@
+
+4043_man.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2gz-1
+  rotate: true
+  xy: 841, 182
+  size: 168, 625
+  orig: 172, 645
+  offset: 1, 20
+  index: -1
+2wm-1
+  rotate: false
+  xy: 1468, 116
+  size: 284, 234
+  orig: 284, 234
+  offset: 0, 0
+  index: -1
+2wm-2
+  rotate: false
+  xy: 94, 331
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+2wm-3
+  rotate: true
+  xy: 21, 333
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+2wm-4
+  rotate: true
+  xy: 55, 332
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+3gz-1
+  rotate: true
+  xy: 629, 8
+  size: 172, 632
+  orig: 174, 634
+  offset: 0, 2
+  index: -1
+3gz-2
+  rotate: false
+  xy: 275, 287
+  size: 98, 63
+  orig: 98, 64
+  offset: 0, 1
+  index: -1
+3gz-3
+  rotate: false
+  xy: 474, 254
+  size: 122, 96
+  orig: 122, 98
+  offset: 0, 1
+  index: -1
+3gz-4
+  rotate: false
+  xy: 190, 294
+  size: 83, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+3gz-5
+  rotate: false
+  xy: 717, 239
+  size: 122, 111
+  orig: 124, 112
+  offset: 0, 1
+  index: -1
+3gz-6
+  rotate: true
+  xy: 124, 324
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+3gz-7
+  rotate: true
+  xy: 154, 322
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+4gz-1
+  rotate: false
+  xy: 1754, 2
+  size: 274, 348
+  orig: 274, 349
+  offset: 0, 1
+  index: -1
+4gz-2
+  rotate: true
+  xy: 375, 262
+  size: 88, 97
+  orig: 90, 97
+  offset: 1, 0
+  index: -1
+4gz-3
+  rotate: true
+  xy: 598, 248
+  size: 102, 117
+  orig: 110, 121
+  offset: 0, 4
+  index: -1
+gz-1
+  rotate: true
+  xy: 2, 78
+  size: 168, 625
+  orig: 172, 627
+  offset: 2, 2
+  index: -1
+gz-2
+  rotate: false
+  xy: 2, 341
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+5119_loudao.png
+size: 1020,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianshi
+  rotate: true
+  xy: 825, 2
+  size: 131, 155
+  orig: 131, 155
+  offset: 0, 0
+  index: -1
+hushi
+  rotate: true
+  xy: 2, 3
+  size: 267, 663
+  orig: 267, 663
+  offset: 0, 0
+  index: -1
+maomi
+  rotate: true
+  xy: 667, 116
+  size: 154, 156
+  orig: 154, 170
+  offset: 0, 13
+  index: -1
+zhenzhi
+  rotate: true
+  xy: 825, 135
+  size: 135, 193
+  orig: 149, 194
+  offset: 6, 1
+  index: -1

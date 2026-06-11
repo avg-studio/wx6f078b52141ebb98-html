@@ -1,0 +1,41 @@
+
+4160_end.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r-1
+  rotate: true
+  xy: 968, 756
+  size: 752, 1035
+  orig: 752, 1036
+  offset: 0, 0
+  index: -1
+tx-1
+  rotate: true
+  xy: 920, 2
+  size: 752, 1036
+  orig: 752, 1036
+  offset: 0, 0
+  index: -1
+tx-2
+  rotate: true
+  xy: 123, 822
+  size: 686, 843
+  orig: 686, 843
+  offset: 0, 0
+  index: -1
+tx-3
+  rotate: true
+  xy: 2, 68
+  size: 752, 916
+  orig: 752, 916
+  offset: 0, 0
+  index: -1
+tx-4
+  rotate: true
+  xy: 2, 1447
+  size: 61, 119
+  orig: 61, 119
+  offset: 0, 0
+  index: -1

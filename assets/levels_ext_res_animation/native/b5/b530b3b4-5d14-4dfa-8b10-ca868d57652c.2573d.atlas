@@ -1,0 +1,41 @@
+
+5041_shangxue.png
+size: 792,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaohai-1
+  rotate: true
+  xy: 128, 139
+  size: 150, 321
+  orig: 150, 322
+  offset: 0, 1
+  index: -1
+xiaohai-2
+  rotate: false
+  xy: 2, 26
+  size: 124, 263
+  orig: 134, 264
+  offset: 0, 1
+  index: -1
+xiaohai-3
+  rotate: true
+  xy: 466, 2
+  size: 142, 323
+  orig: 142, 325
+  offset: 0, 2
+  index: -1
+xiaohai-4
+  rotate: true
+  xy: 451, 146
+  size: 143, 313
+  orig: 143, 321
+  offset: 0, 8
+  index: -1
+xiaohai-5
+  rotate: true
+  xy: 128, 6
+  size: 131, 336
+  orig: 145, 341
+  offset: 14, 5
+  index: -1

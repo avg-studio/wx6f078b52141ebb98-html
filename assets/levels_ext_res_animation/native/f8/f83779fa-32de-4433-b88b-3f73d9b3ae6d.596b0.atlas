@@ -1,0 +1,34 @@
+
+5010_dance.png
+size: 1476,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiaowu2_0
+  rotate: true
+  xy: 761, 29
+  size: 148, 289
+  orig: 148, 289
+  offset: 0, 0
+  index: -1
+tiaowu2_1
+  rotate: true
+  xy: 2, 2
+  size: 522, 757
+  orig: 549, 767
+  offset: 4, 0
+  index: -1
+tiaowu2_2
+  rotate: true
+  xy: 1248, 7
+  size: 517, 226
+  orig: 526, 235
+  offset: 5, 1
+  index: -1
+tiaowu2_3
+  rotate: true
+  xy: 761, 179
+  size: 345, 485
+  orig: 349, 488
+  offset: 4, 3
+  index: -1

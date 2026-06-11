@@ -1,0 +1,34 @@
+
+5134_nv.png
+size: 1180,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv-1
+  rotate: true
+  xy: 2, 2
+  size: 328, 539
+  orig: 328, 539
+  offset: 0, 0
+  index: -1
+nv-2
+  rotate: true
+  xy: 543, 2
+  size: 328, 539
+  orig: 328, 539
+  offset: 0, 0
+  index: -1
+nv-3
+  rotate: false
+  xy: 1084, 196
+  size: 93, 134
+  orig: 94, 140
+  offset: 0, 0
+  index: -1
+nv-4
+  rotate: false
+  xy: 1084, 64
+  size: 93, 130
+  orig: 94, 131
+  offset: 0, 0
+  index: -1

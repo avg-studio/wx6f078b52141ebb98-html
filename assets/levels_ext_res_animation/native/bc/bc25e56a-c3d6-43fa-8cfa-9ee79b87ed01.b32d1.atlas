@@ -1,0 +1,111 @@
+
+5011_daxue.png
+size: 1348,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoren-1
+  rotate: true
+  xy: 454, 242
+  size: 161, 129
+  orig: 161, 129
+  offset: 0, 0
+  index: -1
+laoren-2
+  rotate: true
+  xy: 1221, 790
+  size: 118, 77
+  orig: 120, 77
+  offset: 2, 0
+  index: -1
+laoren-3
+  rotate: false
+  xy: 1282, 61
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+laoren-4
+  rotate: false
+  xy: 1221, 674
+  size: 77, 114
+  orig: 77, 114
+  offset: 0, 0
+  index: -1
+laoren-5
+  rotate: true
+  xy: 585, 334
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+laoren-6
+  rotate: true
+  xy: 2, 4
+  size: 399, 450
+  orig: 399, 450
+  offset: 0, 0
+  index: -1
+laoren-7
+  rotate: false
+  xy: 1060, 2
+  size: 157, 544
+  orig: 157, 546
+  offset: 0, 0
+  index: -1
+laoren-8
+  rotate: false
+  xy: 640, 215
+  size: 418, 809
+  orig: 418, 809
+  offset: 0, 0
+  index: -1
+laoren-9
+  rotate: true
+  xy: 454, 217
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+luren-1
+  rotate: false
+  xy: 1060, 548
+  size: 159, 476
+  orig: 159, 476
+  offset: 0, 0
+  index: -1
+luren-2
+  rotate: false
+  xy: 1219, 153
+  size: 126, 393
+  orig: 126, 393
+  offset: 0, 0
+  index: -1
+luren-3
+  rotate: true
+  xy: 454, 2
+  size: 211, 571
+  orig: 211, 571
+  offset: 0, 0
+  index: -1
+luren-4
+  rotate: false
+  xy: 1219, 7
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+luren-5
+  rotate: true
+  xy: 2, 405
+  size: 619, 636
+  orig: 619, 636
+  offset: 0, 0
+  index: -1
+luren-6
+  rotate: false
+  xy: 1221, 910
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1

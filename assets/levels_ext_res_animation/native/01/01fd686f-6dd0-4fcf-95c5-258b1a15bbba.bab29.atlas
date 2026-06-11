@@ -1,0 +1,97 @@
+
+5170_ren.png
+size: 676,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+men1
+  rotate: false
+  xy: 358, 51
+  size: 23, 57
+  orig: 25, 59
+  offset: 1, 1
+  index: -1
+men2
+  rotate: false
+  xy: 646, 394
+  size: 23, 57
+  orig: 25, 59
+  offset: 1, 1
+  index: -1
+youyong_0
+  rotate: false
+  xy: 2, 49
+  size: 229, 161
+  orig: 231, 163
+  offset: 1, 1
+  index: -1
+youyong_1
+  rotate: false
+  xy: 2, 212
+  size: 243, 333
+  orig: 247, 335
+  offset: 0, 2
+  index: -1
+youyong_10
+  rotate: true
+  xy: 2, 2
+  size: 19, 55
+  orig: 21, 57
+  offset: 2, 0
+  index: -1
+youyong_11
+  rotate: true
+  xy: 2, 23
+  size: 24, 69
+  orig: 30, 77
+  offset: 3, 4
+  index: -1
+youyong_12
+  rotate: false
+  xy: 646, 453
+  size: 26, 92
+  orig: 33, 104
+  offset: 0, 12
+  index: -1
+youyong_2
+  rotate: false
+  xy: 247, 245
+  size: 222, 300
+  orig: 264, 306
+  offset: 42, 6
+  index: -1
+youyong_3
+  rotate: false
+  xy: 471, 258
+  size: 173, 287
+  orig: 177, 326
+  offset: 2, 30
+  index: -1
+youyong_4
+  rotate: true
+  xy: 233, 5
+  size: 103, 123
+  orig: 103, 123
+  offset: 0, 0
+  index: -1
+youyong_5
+  rotate: true
+  xy: 247, 110
+  size: 133, 286
+  orig: 145, 292
+  offset: 6, 1
+  index: -1
+youyong_6
+  rotate: false
+  xy: 535, 16
+  size: 133, 240
+  orig: 144, 242
+  offset: 11, 2
+  index: -1
+youyong_7
+  rotate: true
+  xy: 73, 32
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1

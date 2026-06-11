@@ -1,0 +1,41 @@
+
+5706_mofa.png
+size: 376,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zgm_fx_01
+  rotate: false
+  xy: 110, 17
+  size: 88, 90
+  orig: 94, 103
+  offset: 6, 7
+  index: -1
+zgm_fx_02
+  rotate: true
+  xy: 2, 2
+  size: 105, 106
+  orig: 119, 119
+  offset: 7, 7
+  index: -1
+zgm_fx_03
+  rotate: false
+  xy: 2, 109
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+zgm_fx_04
+  rotate: true
+  xy: 210, 151
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+zgm_icon_06
+  rotate: true
+  xy: 210, 55
+  size: 94, 150
+  orig: 94, 150
+  offset: 0, 0
+  index: -1

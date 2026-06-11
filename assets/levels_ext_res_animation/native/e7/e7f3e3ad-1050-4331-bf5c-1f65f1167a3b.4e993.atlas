@@ -1,0 +1,83 @@
+
+5129_wanhui.png
+size: 836,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong
+  rotate: false
+  xy: 2, 25
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+jiezhi
+  rotate: false
+  xy: 740, 348
+  size: 15, 18
+  orig: 17, 20
+  offset: 1, 1
+  index: -1
+lnn
+  rotate: false
+  xy: 206, 448
+  size: 351, 568
+  orig: 359, 569
+  offset: 8, 0
+  index: -1
+lyy4
+  rotate: false
+  xy: 184, 2
+  size: 363, 117
+  orig: 363, 117
+  offset: 0, 0
+  index: -1
+lyy_guizhe
+  rotate: true
+  xy: 206, 121
+  size: 322, 532
+  orig: 328, 534
+  offset: 6, 2
+  index: -1
+lyy_idle
+  rotate: false
+  xy: 2, 286
+  size: 202, 730
+  orig: 202, 735
+  offset: 0, 5
+  index: -1
+nn_beiqiuhun
+  rotate: false
+  xy: 559, 445
+  size: 274, 571
+  orig: 274, 571
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 549, 71
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 740, 368
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 184, 266
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+zzw
+  rotate: false
+  xy: 2, 104
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

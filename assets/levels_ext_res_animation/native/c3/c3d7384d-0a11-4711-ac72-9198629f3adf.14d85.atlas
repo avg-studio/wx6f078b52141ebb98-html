@@ -1,0 +1,82 @@
+
+5186_she2.png
+size: 1736,1972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_tui
+  rotate: true
+  xy: 857, 2
+  size: 660, 876
+  orig: 660, 877
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 752
+  size: 456, 855
+  orig: 507, 855
+  offset: 0, 0
+  index: -1
+6_tui
+  rotate: true
+  xy: 845, 1210
+  size: 389, 847
+  orig: 507, 847
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 859, 664
+  size: 544, 773
+  orig: 545, 809
+  offset: 1, 36
+  index: -1
+7_tui
+  rotate: true
+  xy: 848, 1601
+  size: 366, 819
+  orig: 369, 823
+  offset: 0, 4
+  index: -1
+8
+  rotate: true
+  xy: 2, 173
+  size: 577, 853
+  orig: 577, 853
+  offset: 0, 0
+  index: -1
+8_tui
+  rotate: true
+  xy: 2, 1266
+  size: 432, 841
+  orig: 432, 844
+  offset: 0, 3
+  index: -1
+9_tui
+  rotate: true
+  xy: 2, 1700
+  size: 267, 844
+  orig: 275, 848
+  offset: 4, 4
+  index: -1
+
+5186_she22.png
+size: 1336,860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 2
+  size: 660, 856
+  orig: 660, 876
+  offset: 0, 19
+  index: -1
+9
+  rotate: false
+  xy: 664, 14
+  size: 670, 844
+  orig: 670, 847
+  offset: 0, 3
+  index: -1

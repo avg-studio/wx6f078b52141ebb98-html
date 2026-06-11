@@ -1,0 +1,27 @@
+
+4977_kaochuan.png
+size: 812,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kmj-1
+  rotate: false
+  xy: 562, 180
+  size: 245, 166
+  orig: 245, 167
+  offset: 0, 0
+  index: -1
+kmj-2
+  rotate: false
+  xy: 562, 11
+  size: 183, 167
+  orig: 183, 167
+  offset: 0, 0
+  index: -1
+kmj-3
+  rotate: true
+  xy: 2, 2
+  size: 344, 558
+  orig: 344, 558
+  offset: 0, 0
+  index: -1

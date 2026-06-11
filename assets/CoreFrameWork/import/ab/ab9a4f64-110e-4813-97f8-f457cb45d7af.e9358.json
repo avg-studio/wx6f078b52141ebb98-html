@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"readme","\r\n- runtime.js插件是用于支持async\r\n\r\n- 关卡管理主要相关类\r\n  - LevelMgr\r\n  - LevelCfg  （LevelLocalCfg，LevelWebCfg）\r\n  - window.LevelUtils  （英杰写的）\r\n  - LevelOrderManager （旧工程）\r\n\r\n"]],0,0,[],[],[]]

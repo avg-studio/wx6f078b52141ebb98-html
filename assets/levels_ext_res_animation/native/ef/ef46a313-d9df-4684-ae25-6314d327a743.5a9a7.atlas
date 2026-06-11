@@ -1,0 +1,82 @@
+
+5185_she.png
+size: 1952,1848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1408, 997
+  size: 539, 846
+  orig: 539, 846
+  offset: 0, 0
+  index: -1
+1_tui
+  rotate: false
+  xy: 1408, 149
+  size: 537, 846
+  orig: 537, 846
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 533, 908
+  orig: 533, 908
+  offset: 0, 0
+  index: -1
+2_tui
+  rotate: false
+  xy: 2, 912
+  size: 579, 931
+  orig: 579, 931
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 877, 989
+  size: 529, 854
+  orig: 550, 854
+  offset: 0, 0
+  index: -1
+3_tui
+  rotate: false
+  xy: 537, 46
+  size: 440, 864
+  orig: 440, 864
+  offset: 0, 0
+  index: -1
+5_tui
+  rotate: false
+  xy: 583, 985
+  size: 292, 858
+  orig: 292, 858
+  offset: 0, 0
+  index: -1
+
+5185_she2.png
+size: 1524,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 535, 20
+  size: 528, 830
+  orig: 528, 830
+  offset: 0, 0
+  index: -1
+4_tui
+  rotate: false
+  xy: 1065, 2
+  size: 457, 848
+  orig: 457, 848
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 5
+  size: 531, 845
+  orig: 531, 845
+  offset: 0, 0
+  index: -1

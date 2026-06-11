@@ -1,0 +1,41 @@
+
+3655_djtx.png
+size: 90,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l-1
+  rotate: true
+  xy: 2, 7
+  size: 38, 32
+  orig: 40, 34
+  offset: 1, 1
+  index: -1
+l-2
+  rotate: true
+  xy: 61, 26
+  size: 19, 27
+  orig: 21, 29
+  offset: 1, 1
+  index: -1
+l-3
+  rotate: false
+  xy: 36, 2
+  size: 28, 17
+  orig: 30, 19
+  offset: 1, 1
+  index: -1
+l-4
+  rotate: false
+  xy: 66, 4
+  size: 19, 20
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+l-5
+  rotate: false
+  xy: 36, 21
+  size: 23, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1

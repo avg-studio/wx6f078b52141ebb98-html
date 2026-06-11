@@ -1,0 +1,27 @@
+
+5028_LH148.png
+size: 512,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lt1
+  rotate: true
+  xy: 2, 2
+  size: 157, 335
+  orig: 157, 335
+  offset: 0, 0
+  index: -1
+lt2
+  rotate: false
+  xy: 351, 8
+  size: 157, 335
+  orig: 157, 335
+  offset: 0, 0
+  index: -1
+nv
+  rotate: true
+  xy: 2, 161
+  size: 182, 347
+  orig: 183, 347
+  offset: 1, 0
+  index: -1

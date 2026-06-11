@@ -1,0 +1,62 @@
+
+6736_daoju.png
+size: 952,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_01
+  rotate: false
+  xy: 645, 279
+  size: 179, 184
+  orig: 200, 200
+  offset: 12, 7
+  index: -1
+icon_02
+  rotate: true
+  xy: 649, 96
+  size: 181, 149
+  orig: 200, 200
+  offset: 11, 25
+  index: -1
+icon_03
+  rotate: false
+  xy: 800, 16
+  size: 136, 171
+  orig: 200, 200
+  offset: 40, 16
+  index: -1
+icon_04
+  rotate: false
+  xy: 826, 294
+  size: 124, 169
+  orig: 200, 200
+  offset: 35, 12
+  index: -1
+lh1
+  rotate: true
+  xy: 464, 213
+  size: 250, 179
+  orig: 250, 179
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: true
+  xy: 464, 2
+  size: 209, 183
+  orig: 213, 185
+  offset: 2, 2
+  index: -1
+qd_fx
+  rotate: false
+  xy: 2, 3
+  size: 460, 460
+  orig: 460, 460
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 826, 189
+  size: 103, 103
+  orig: 107, 107
+  offset: 2, 2
+  index: -1

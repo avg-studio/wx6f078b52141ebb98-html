@@ -1,0 +1,13 @@
+
+5052_nvsheng.png
+size: 208,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl
+  rotate: false
+  xy: 2, 2
+  size: 202, 403
+  orig: 202, 403
+  offset: 0, 0
+  index: -1

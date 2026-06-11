@@ -1,0 +1,76 @@
+
+5072_laoyeye.png
+size: 1396,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoyeye_0
+  rotate: false
+  xy: 804, 225
+  size: 310, 549
+  orig: 313, 552
+  offset: 2, 1
+  index: -1
+laoyeye_1
+  rotate: false
+  xy: 1164, 58
+  size: 227, 267
+  orig: 238, 269
+  offset: 0, 1
+  index: -1
+laoyeye_2
+  rotate: false
+  xy: 465, 223
+  size: 337, 551
+  orig: 342, 560
+  offset: 5, 0
+  index: -1
+laoyeye_4
+  rotate: true
+  xy: 381, 2
+  size: 184, 205
+  orig: 187, 207
+  offset: 2, 1
+  index: -1
+laoyeye_5
+  rotate: false
+  xy: 978, 39
+  size: 184, 184
+  orig: 200, 209
+  offset: 8, 20
+  index: -1
+laoyeye_6
+  rotate: false
+  xy: 2, 188
+  size: 461, 586
+  orig: 467, 589
+  offset: 2, 2
+  index: -1
+laoyeye_7
+  rotate: false
+  xy: 588, 22
+  size: 388, 199
+  orig: 402, 222
+  offset: 13, 11
+  index: -1
+laoyeye_8
+  rotate: true
+  xy: 1116, 327
+  size: 447, 258
+  orig: 453, 263
+  offset: 1, 2
+  index: -1
+laoyeye_yan
+  rotate: true
+  xy: 2, 24
+  size: 162, 377
+  orig: 162, 377
+  offset: 0, 0
+  index: -1
+nothing
+  rotate: false
+  xy: 2, 20
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1

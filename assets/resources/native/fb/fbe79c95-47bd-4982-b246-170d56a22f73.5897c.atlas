@@ -1,0 +1,20 @@
+
+4425_chuizi.png
+size: 208,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cz-1
+  rotate: false
+  xy: 2, 8
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+cz-2
+  rotate: false
+  xy: 109, 2
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1

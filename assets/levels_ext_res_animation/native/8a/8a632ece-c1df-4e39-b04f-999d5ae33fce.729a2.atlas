@@ -1,0 +1,69 @@
+
+5088_boom.png
+size: 1528,1108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom_bz_00000
+  rotate: true
+  xy: 510, 738
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00016
+  rotate: true
+  xy: 1018, 738
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00032
+  rotate: true
+  xy: 2, 370
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00048
+  rotate: true
+  xy: 510, 370
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00064
+  rotate: true
+  xy: 1018, 370
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00080
+  rotate: true
+  xy: 2, 2
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00096
+  rotate: true
+  xy: 510, 2
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00112
+  rotate: true
+  xy: 1018, 2
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1
+boom_bz_00120
+  rotate: true
+  xy: 2, 738
+  size: 366, 506
+  orig: 366, 506
+  offset: 0, 0
+  index: -1

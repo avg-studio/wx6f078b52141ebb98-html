@@ -1,0 +1,90 @@
+
+5957_tv.png
+size: 1652,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TV
+  rotate: false
+  xy: 2, 12
+  size: 386, 380
+  orig: 388, 382
+  offset: 1, 1
+  index: -1
+TV-1
+  rotate: false
+  xy: 655, 198
+  size: 263, 194
+  orig: 265, 196
+  offset: 1, 1
+  index: -1
+TV-2
+  rotate: false
+  xy: 390, 2
+  size: 263, 193
+  orig: 265, 195
+  offset: 1, 1
+  index: -1
+TV-3
+  rotate: false
+  xy: 655, 3
+  size: 263, 193
+  orig: 265, 195
+  offset: 1, 1
+  index: -1
+TV-4
+  rotate: false
+  xy: 920, 198
+  size: 263, 194
+  orig: 265, 196
+  offset: 1, 1
+  index: -1
+TV-5
+  rotate: false
+  xy: 390, 197
+  size: 263, 195
+  orig: 265, 197
+  offset: 1, 1
+  index: -1
+TV-6
+  rotate: false
+  xy: 1185, 198
+  size: 263, 194
+  orig: 265, 196
+  offset: 1, 1
+  index: -1
+TV-7
+  rotate: false
+  xy: 920, 3
+  size: 263, 193
+  orig: 265, 195
+  offset: 1, 1
+  index: -1
+TV-8
+  rotate: false
+  xy: 1185, 3
+  size: 263, 193
+  orig: 265, 195
+  offset: 1, 1
+  index: -1
+TV2
+  rotate: true
+  xy: 1450, 157
+  size: 235, 197
+  orig: 237, 199
+  offset: 1, 1
+  index: -1
+wz-1
+  rotate: false
+  xy: 1450, 107
+  size: 134, 48
+  orig: 134, 48
+  offset: 0, 0
+  index: -1
+wz-2
+  rotate: false
+  xy: 1450, 92
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

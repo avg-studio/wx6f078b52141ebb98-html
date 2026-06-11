@@ -1,0 +1,20 @@
+
+5061_ku.png
+size: 952,636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv
+  rotate: true
+  xy: 2, 2
+  size: 631, 545
+  orig: 631, 545
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: true
+  xy: 549, 9
+  size: 624, 398
+  orig: 631, 409
+  offset: 2, 6
+  index: -1

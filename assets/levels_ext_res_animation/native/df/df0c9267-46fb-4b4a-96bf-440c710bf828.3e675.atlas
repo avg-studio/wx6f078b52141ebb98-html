@@ -1,0 +1,20 @@
+
+5036_xiezi.png
+size: 252,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaohai-1
+  rotate: true
+  xy: 197, 47
+  size: 117, 51
+  orig: 117, 51
+  offset: 0, 0
+  index: -1
+xiaohai-2
+  rotate: true
+  xy: 2, 2
+  size: 162, 193
+  orig: 162, 215
+  offset: 0, 22
+  index: -1

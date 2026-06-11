@@ -1,0 +1,41 @@
+
+5148_daoju.png
+size: 268,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dong
+  rotate: false
+  xy: 184, 52
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 184, 2
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 184, 96
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 240, 32
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+zzw
+  rotate: false
+  xy: 2, 6
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

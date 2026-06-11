@@ -1,0 +1,76 @@
+
+5084_che.png
+size: 1852,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: true
+  xy: 2, 6
+  size: 644, 801
+  orig: 648, 815
+  offset: 0, 0
+  index: -1
+nothing
+  rotate: false
+  xy: 2, 2
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+pig/pig_00000
+  rotate: true
+  xy: 805, 287
+  size: 363, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+pig/pig_00004
+  rotate: true
+  xy: 1032, 287
+  size: 363, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+pig/pig_00012
+  rotate: false
+  xy: 1058, 60
+  size: 363, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+pig/pig_00016
+  rotate: true
+  xy: 1259, 287
+  size: 363, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+pig/pig_00020
+  rotate: false
+  xy: 1486, 425
+  size: 361, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+pig/pig_00024
+  rotate: false
+  xy: 1486, 198
+  size: 361, 225
+  orig: 381, 232
+  offset: 14, 2
+  index: -1
+yan
+  rotate: false
+  xy: 805, 16
+  size: 251, 269
+  orig: 263, 274
+  offset: 6, 1
+  index: -1
+zhi
+  rotate: false
+  xy: 1423, 19
+  size: 153, 177
+  orig: 155, 177
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+4968_xiaohai.png
+size: 664,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren-1
+  rotate: false
+  xy: 576, 73
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+ren-2
+  rotate: true
+  xy: 2, 2
+  size: 285, 572
+  orig: 285, 572
+  offset: 0, 0
+  index: -1
+ren-3
+  rotate: true
+  xy: 576, 108
+  size: 179, 83
+  orig: 179, 83
+  offset: 0, 0
+  index: -1

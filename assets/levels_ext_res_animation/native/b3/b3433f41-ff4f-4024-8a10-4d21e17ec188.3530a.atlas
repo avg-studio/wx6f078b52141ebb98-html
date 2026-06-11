@@ -1,0 +1,62 @@
+
+4993_laoren.png
+size: 568,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laonai-1
+  rotate: true
+  xy: 396, 621
+  size: 167, 169
+  orig: 172, 174
+  offset: 5, 4
+  index: -1
+laonai-2
+  rotate: true
+  xy: 517, 803
+  size: 144, 46
+  orig: 144, 46
+  offset: 0, 0
+  index: -1
+laonai-3
+  rotate: true
+  xy: 2, 480
+  size: 308, 392
+  orig: 308, 392
+  offset: 0, 0
+  index: -1
+laonai-4
+  rotate: true
+  xy: 393, 127
+  size: 254, 144
+  orig: 254, 144
+  offset: 0, 0
+  index: -1
+laonai-5
+  rotate: false
+  xy: 2, 253
+  size: 389, 225
+  orig: 389, 225
+  offset: 0, 0
+  index: -1
+laonai-6
+  rotate: true
+  xy: 2, 2
+  size: 249, 382
+  orig: 254, 412
+  offset: 4, 0
+  index: -1
+yeye-1
+  rotate: true
+  xy: 396, 383
+  size: 236, 152
+  orig: 236, 152
+  offset: 0, 0
+  index: -1
+yeye-2
+  rotate: true
+  xy: 2, 790
+  size: 157, 513
+  orig: 158, 513
+  offset: 0, 0
+  index: -1

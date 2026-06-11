@@ -1,0 +1,20 @@
+
+5065_shuijiao.png
+size: 432,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren-1
+  rotate: true
+  xy: 248, 2
+  size: 154, 179
+  orig: 154, 183
+  offset: 0, 0
+  index: -1
+ren-2
+  rotate: true
+  xy: 2, 10
+  size: 146, 244
+  orig: 146, 246
+  offset: 0, 0
+  index: -1

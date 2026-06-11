@@ -1,0 +1,418 @@
+
+5068_tiaowu.png
+size: 1940,1996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00000
+  rotate: false
+  xy: 2, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00002
+  rotate: false
+  xy: 2, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00004
+  rotate: false
+  xy: 244, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00006
+  rotate: false
+  xy: 2, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00008
+  rotate: false
+  xy: 244, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00010
+  rotate: false
+  xy: 486, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00012
+  rotate: false
+  xy: 2, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00014
+  rotate: false
+  xy: 244, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00016
+  rotate: false
+  xy: 486, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00018
+  rotate: false
+  xy: 728, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00020
+  rotate: false
+  xy: 2, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00022
+  rotate: false
+  xy: 244, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00024
+  rotate: false
+  xy: 486, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00026
+  rotate: false
+  xy: 728, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00028
+  rotate: false
+  xy: 970, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00030
+  rotate: false
+  xy: 2, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00032
+  rotate: false
+  xy: 244, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00034
+  rotate: false
+  xy: 486, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00036
+  rotate: false
+  xy: 728, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00038
+  rotate: false
+  xy: 970, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00040
+  rotate: false
+  xy: 1212, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00042
+  rotate: false
+  xy: 244, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00044
+  rotate: false
+  xy: 486, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00046
+  rotate: false
+  xy: 728, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00048
+  rotate: false
+  xy: 970, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00050
+  rotate: false
+  xy: 1212, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00052
+  rotate: false
+  xy: 1454, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00054
+  rotate: false
+  xy: 486, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00056
+  rotate: false
+  xy: 728, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00058
+  rotate: false
+  xy: 970, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00060
+  rotate: false
+  xy: 1212, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00062
+  rotate: false
+  xy: 1454, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00064
+  rotate: false
+  xy: 1696, 1662
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00066
+  rotate: false
+  xy: 728, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00068
+  rotate: false
+  xy: 970, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00070
+  rotate: false
+  xy: 1212, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00072
+  rotate: false
+  xy: 1454, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00074
+  rotate: false
+  xy: 1696, 1330
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00076
+  rotate: false
+  xy: 970, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00078
+  rotate: false
+  xy: 1212, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00080
+  rotate: false
+  xy: 1454, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00082
+  rotate: false
+  xy: 1696, 998
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00084
+  rotate: false
+  xy: 1212, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00086
+  rotate: false
+  xy: 1454, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00088
+  rotate: false
+  xy: 1696, 666
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00090
+  rotate: false
+  xy: 1454, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00092
+  rotate: false
+  xy: 1696, 334
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00094
+  rotate: false
+  xy: 1696, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+
+5068_tiaowu2.png
+size: 1664,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_00096
+  rotate: true
+  xy: 2, 244
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00098
+  rotate: true
+  xy: 334, 244
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00100
+  rotate: true
+  xy: 666, 244
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00102
+  rotate: true
+  xy: 998, 244
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00104
+  rotate: true
+  xy: 1330, 244
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00106
+  rotate: true
+  xy: 2, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00108
+  rotate: true
+  xy: 334, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00110
+  rotate: true
+  xy: 666, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00112
+  rotate: true
+  xy: 998, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1
+01_00114
+  rotate: true
+  xy: 1330, 2
+  size: 240, 330
+  orig: 240, 330
+  offset: 0, 0
+  index: -1

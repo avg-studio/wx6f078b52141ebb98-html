@@ -1,0 +1,48 @@
+
+4044_ayi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2wm-1
+  rotate: false
+  xy: 2, 2
+  size: 284, 234
+  orig: 284, 234
+  offset: 0, 0
+  index: -1
+2wm-2
+  rotate: true
+  xy: 873, 208
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+2wm-3
+  rotate: false
+  xy: 873, 135
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+2wm-4
+  rotate: false
+  xy: 873, 169
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+wm-1
+  rotate: true
+  xy: 288, 49
+  size: 187, 583
+  orig: 188, 583
+  offset: 0, 0
+  index: -1
+wm-2
+  rotate: true
+  xy: 873, 111
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+5062_nv.png
+size: 352,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiche
+  rotate: false
+  xy: 2, 2
+  size: 215, 459
+  orig: 244, 479
+  offset: 29, 0
+  index: -1
+xiaofan_0
+  rotate: false
+  xy: 257, 589
+  size: 86, 120
+  orig: 88, 122
+  offset: 1, 1
+  index: -1
+xiaofan_1
+  rotate: true
+  xy: 2, 463
+  size: 246, 253
+  orig: 248, 256
+  offset: 1, 1
+  index: -1
+xiaofan_2
+  rotate: false
+  xy: 257, 461
+  size: 50, 126
+  orig: 50, 127
+  offset: 0, 0
+  index: -1
+xiaofan_3
+  rotate: false
+  xy: 309, 570
+  size: 39, 17
+  orig: 41, 23
+  offset: 1, 3
+  index: -1
+xiaofan_4
+  rotate: false
+  xy: 219, 68
+  size: 128, 391
+  orig: 128, 400
+  offset: 0, 9
+  index: -1

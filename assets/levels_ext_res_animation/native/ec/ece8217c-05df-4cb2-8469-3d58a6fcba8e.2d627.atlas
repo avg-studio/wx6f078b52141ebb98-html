@@ -1,0 +1,110 @@
+
+5130_bao.png
+size: 2044,1876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ti/ti_0
+  rotate: false
+  xy: 2, 1293
+  size: 698, 578
+  orig: 743, 653
+  offset: 0, 24
+  index: -1
+ti/ti_12
+  rotate: false
+  xy: 2, 116
+  size: 672, 592
+  orig: 743, 653
+  offset: 0, 25
+  index: -1
+ti/ti_16
+  rotate: false
+  xy: 1346, 2
+  size: 674, 611
+  orig: 743, 653
+  offset: 0, 24
+  index: -1
+ti/ti_28
+  rotate: true
+  xy: 1400, 1218
+  size: 653, 608
+  orig: 743, 653
+  offset: 0, 17
+  index: -1
+ti/ti_30
+  rotate: false
+  xy: 1385, 615
+  size: 656, 601
+  orig: 743, 653
+  offset: 0, 17
+  index: -1
+ti/ti_32
+  rotate: false
+  xy: 676, 105
+  size: 668, 594
+  orig: 743, 653
+  offset: 0, 17
+  index: -1
+ti/ti_34
+  rotate: false
+  xy: 692, 701
+  size: 691, 589
+  orig: 743, 653
+  offset: 0, 17
+  index: -1
+ti/ti_4
+  rotate: false
+  xy: 702, 1292
+  size: 696, 579
+  orig: 743, 653
+  offset: 0, 25
+  index: -1
+ti/ti_8
+  rotate: false
+  xy: 2, 710
+  size: 688, 581
+  orig: 743, 653
+  offset: 0, 26
+  index: -1
+
+5130_bao2.png
+size: 1864,1320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ti/ti_20
+  rotate: false
+  xy: 1196, 698
+  size: 663, 619
+  orig: 743, 653
+  offset: 0, 22
+  index: -1
+ti/ti_24
+  rotate: false
+  xy: 1196, 77
+  size: 660, 619
+  orig: 743, 653
+  offset: 0, 18
+  index: -1
+ti/ti_36
+  rotate: false
+  xy: 2, 2
+  size: 714, 591
+  orig: 743, 653
+  offset: 0, 17
+  index: -1
+ti/ti_37
+  rotate: true
+  xy: 600, 596
+  size: 721, 594
+  orig: 743, 653
+  offset: 0, 16
+  index: -1
+ti/ti_38
+  rotate: true
+  xy: 2, 595
+  size: 722, 596
+  orig: 743, 653
+  offset: 0, 16
+  index: -1

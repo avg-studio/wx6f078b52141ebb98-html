@@ -1,0 +1,41 @@
+
+5003_yingqin.png
+size: 1188,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 662, 20
+  size: 135, 396
+  orig: 135, 396
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 662, 157
+  size: 166, 522
+  orig: 166, 522
+  offset: 0, 0
+  index: -1
+ren-1
+  rotate: true
+  xy: 1060, 89
+  size: 66, 64
+  orig: 68, 66
+  offset: 1, 1
+  index: -1
+ren-2
+  rotate: false
+  xy: 1060, 67
+  size: 27, 20
+  orig: 29, 23
+  offset: 1, 2
+  index: -1
+ren-3
+  rotate: true
+  xy: 2, 2
+  size: 321, 658
+  orig: 321, 658
+  offset: 0, 0
+  index: -1

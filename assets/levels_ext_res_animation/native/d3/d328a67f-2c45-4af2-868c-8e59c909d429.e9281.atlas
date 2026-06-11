@@ -1,0 +1,124 @@
+
+5138_laowu3.png
+size: 2000,1784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapai/dapai108
+  rotate: false
+  xy: 667, 5
+  size: 662, 591
+  orig: 669, 606
+  offset: 7, 6
+  index: -1
+dapai/dapai116
+  rotate: false
+  xy: 1327, 598
+  size: 662, 590
+  orig: 669, 606
+  offset: 7, 6
+  index: -1
+dapai/dapai24
+  rotate: false
+  xy: 2, 599
+  size: 660, 590
+  orig: 669, 606
+  offset: 8, 6
+  index: -1
+dapai/dapai28
+  rotate: false
+  xy: 2, 1191
+  size: 660, 588
+  orig: 669, 606
+  offset: 8, 7
+  index: -1
+dapai/dapai36
+  rotate: false
+  xy: 664, 598
+  size: 661, 590
+  orig: 669, 606
+  offset: 7, 6
+  index: -1
+dapai/dapai44
+  rotate: false
+  xy: 664, 1190
+  size: 662, 589
+  orig: 669, 606
+  offset: 6, 7
+  index: -1
+dapai/dapai52
+  rotate: false
+  xy: 1328, 1190
+  size: 662, 589
+  orig: 669, 606
+  offset: 6, 7
+  index: -1
+dapai/dapai60
+  rotate: false
+  xy: 2, 5
+  size: 663, 591
+  orig: 669, 606
+  offset: 5, 8
+  index: -1
+dapai/dapai8
+  rotate: false
+  xy: 1331, 2
+  size: 665, 594
+  orig: 669, 606
+  offset: 3, 6
+  index: -1
+
+5138_laowu32.png
+size: 1864,1792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapai/dapai0
+  rotate: true
+  xy: 1265, 1126
+  size: 663, 596
+  orig: 669, 606
+  offset: 5, 5
+  index: -1
+dapai/dapai100
+  rotate: false
+  xy: 599, 2
+  size: 661, 594
+  orig: 669, 606
+  offset: 8, 5
+  index: -1
+dapai/dapai16
+  rotate: true
+  xy: 2, 1125
+  size: 664, 595
+  orig: 669, 606
+  offset: 4, 6
+  index: -1
+dapai/dapai68
+  rotate: false
+  xy: 599, 1195
+  size: 664, 594
+  orig: 669, 606
+  offset: 4, 7
+  index: -1
+dapai/dapai76
+  rotate: true
+  xy: 2, 459
+  size: 664, 595
+  orig: 669, 606
+  offset: 4, 7
+  index: -1
+dapai/dapai84
+  rotate: false
+  xy: 599, 598
+  size: 661, 595
+  orig: 669, 606
+  offset: 8, 6
+  index: -1
+dapai/dapai92
+  rotate: true
+  xy: 1262, 464
+  size: 660, 596
+  orig: 669, 606
+  offset: 9, 5
+  index: -1

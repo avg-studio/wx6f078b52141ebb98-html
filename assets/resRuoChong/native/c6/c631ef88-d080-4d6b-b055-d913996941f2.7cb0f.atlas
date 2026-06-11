@@ -1,0 +1,76 @@
+
+2DjTx.png
+size: 360,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Saoba
+  rotate: true
+  xy: 252, 9
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+yan0001
+  rotate: true
+  xy: 184, 6
+  size: 47, 26
+  orig: 68, 44
+  offset: 3, 2
+  index: -1
+yan0003
+  rotate: true
+  xy: 37, 3
+  size: 50, 29
+  orig: 68, 44
+  offset: 9, 2
+  index: -1
+yan0005
+  rotate: true
+  xy: 2, 2
+  size: 51, 33
+  orig: 68, 44
+  offset: 12, 2
+  index: -1
+yan0007
+  rotate: true
+  xy: 146, 5
+  size: 48, 36
+  orig: 68, 44
+  offset: 16, 3
+  index: -1
+yan0009
+  rotate: true
+  xy: 68, 4
+  size: 49, 37
+  orig: 68, 44
+  offset: 16, 3
+  index: -1
+yan0011
+  rotate: true
+  xy: 107, 4
+  size: 49, 37
+  orig: 68, 44
+  offset: 17, 5
+  index: -1
+yan0013
+  rotate: true
+  xy: 212, 7
+  size: 46, 38
+  orig: 68, 44
+  offset: 18, 5
+  index: -1
+yan0015
+  rotate: false
+  xy: 314, 17
+  size: 44, 36
+  orig: 68, 44
+  offset: 20, 6
+  index: -1
+yan0017
+  rotate: false
+  xy: 314, 2
+  size: 24, 13
+  orig: 68, 44
+  offset: 24, 28
+  index: -1

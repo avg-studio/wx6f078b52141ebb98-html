@@ -1,0 +1,146 @@
+
+5024_kite.png
+size: 500,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat
+  rotate: false
+  xy: 272, 332
+  size: 138, 99
+  orig: 141, 104
+  offset: 2, 5
+  index: -1
+laonn_fz_0
+  rotate: true
+  xy: 2, 37
+  size: 26, 265
+  orig: 26, 265
+  offset: 0, 0
+  index: -1
+laonn_fz_1
+  rotate: true
+  xy: 272, 433
+  size: 100, 226
+  orig: 100, 226
+  offset: 0, 0
+  index: -1
+laonn_fz_2
+  rotate: true
+  xy: 431, 140
+  size: 85, 61
+  orig: 85, 61
+  offset: 0, 0
+  index: -1
+laonn_fz_3
+  rotate: false
+  xy: 341, 26
+  size: 68, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+laonn_fz_4
+  rotate: false
+  xy: 2, 265
+  size: 268, 268
+  orig: 272, 271
+  offset: 4, 1
+  index: -1
+laoyy_0
+  rotate: true
+  xy: 412, 337
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+laoyy_1
+  rotate: true
+  xy: 2, 2
+  size: 33, 179
+  orig: 40, 180
+  offset: 0, 1
+  index: -1
+laoyy_2
+  rotate: true
+  xy: 2, 160
+  size: 103, 387
+  orig: 103, 387
+  offset: 0, 0
+  index: -1
+laoyy_3
+  rotate: true
+  xy: 273, 4
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+meinv_0
+  rotate: false
+  xy: 441, 30
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+meinv_1
+  rotate: false
+  xy: 411, 26
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+meinv_2
+  rotate: true
+  xy: 411, 61
+  size: 77, 87
+  orig: 77, 87
+  offset: 0, 0
+  index: -1
+meinv_3
+  rotate: true
+  xy: 183, 9
+  size: 26, 88
+  orig: 26, 91
+  offset: 0, 0
+  index: -1
+meinv_4
+  rotate: true
+  xy: 2, 65
+  size: 93, 207
+  orig: 93, 207
+  offset: 0, 0
+  index: -1
+meinv_5
+  rotate: false
+  xy: 391, 172
+  size: 38, 108
+  orig: 39, 108
+  offset: 1, 0
+  index: -1
+meinv_6
+  rotate: true
+  xy: 272, 282
+  size: 48, 123
+  orig: 48, 123
+  offset: 0, 0
+  index: -1
+meinv_7
+  rotate: false
+  xy: 431, 227
+  size: 40, 108
+  orig: 41, 108
+  offset: 1, 0
+  index: -1
+meinv_8
+  rotate: true
+  xy: 211, 67
+  size: 47, 123
+  orig: 47, 123
+  offset: 0, 0
+  index: -1
+meinv_9
+  rotate: false
+  xy: 211, 116
+  size: 154, 42
+  orig: 162, 48
+  offset: 5, 3
+  index: -1

@@ -1,0 +1,13 @@
+
+5092_shike.png
+size: 100,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 3
+  rotate: false
+  xy: 2, 2
+  size: 96, 187
+  orig: 100, 210
+  offset: 0, 15
+  index: -1

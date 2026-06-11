@@ -1,0 +1,27 @@
+
+5059_xiaohai.png
+size: 324,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiji
+  rotate: false
+  xy: 180, 2
+  size: 95, 38
+  orig: 96, 38
+  offset: 1, 0
+  index: -1
+nanhai-1
+  rotate: false
+  xy: 2, 41
+  size: 176, 372
+  orig: 176, 372
+  offset: 0, 0
+  index: -1
+nanhai-2
+  rotate: false
+  xy: 180, 42
+  size: 141, 371
+  orig: 141, 371
+  offset: 0, 0
+  index: -1

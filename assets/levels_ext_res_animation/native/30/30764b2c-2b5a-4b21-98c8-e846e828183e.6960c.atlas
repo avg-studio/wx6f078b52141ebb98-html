@@ -1,0 +1,55 @@
+
+5098_laoren2.png
+size: 1252,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoshu
+  rotate: true
+  xy: 1136, 8
+  size: 146, 92
+  orig: 146, 97
+  offset: 0, 5
+  index: -1
+laotou_daiji
+  rotate: false
+  xy: 832, 33
+  size: 302, 420
+  orig: 302, 420
+  offset: 0, 0
+  index: -1
+laotou_fd
+  rotate: true
+  xy: 429, 147
+  size: 306, 401
+  orig: 306, 402
+  offset: 0, 1
+  index: -1
+lnn_bing_fd_man
+  rotate: true
+  xy: 429, 8
+  size: 137, 333
+  orig: 137, 333
+  offset: 0, 0
+  index: -1
+lnn_daiji
+  rotate: false
+  xy: 1136, 156
+  size: 111, 297
+  orig: 111, 298
+  offset: 0, 1
+  index: -1
+lnn_fd
+  rotate: true
+  xy: 2, 2
+  size: 94, 296
+  orig: 94, 298
+  offset: 0, 2
+  index: -1
+nvpu
+  rotate: true
+  xy: 2, 98
+  size: 355, 425
+  orig: 358, 427
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+3729_jt.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jt-1
+  rotate: false
+  xy: 2, 2
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+5060_nainai.png
+size: 984,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lfr-1
+  rotate: false
+  xy: 493, 2
+  size: 488, 370
+  orig: 488, 370
+  offset: 0, 0
+  index: -1
+lfr-2
+  rotate: false
+  xy: 2, 2
+  size: 489, 370
+  orig: 511, 370
+  offset: 0, 0
+  index: -1

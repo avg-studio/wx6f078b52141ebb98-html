@@ -1,0 +1,27 @@
+
+5018_night.png
+size: 696,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nothing
+  rotate: false
+  xy: 628, 272
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: true
+  xy: 628, 276
+  size: 119, 64
+  orig: 121, 67
+  offset: 1, 2
+  index: -1
+yy2
+  rotate: true
+  xy: 2, 2
+  size: 393, 624
+  orig: 409, 624
+  offset: 0, 0
+  index: -1

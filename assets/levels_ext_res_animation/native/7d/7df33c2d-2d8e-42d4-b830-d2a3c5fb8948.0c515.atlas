@@ -1,0 +1,146 @@
+
+5082_nvren.png
+size: 1404,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2nv-1
+  rotate: true
+  xy: 2, 14
+  size: 70, 183
+  orig: 71, 184
+  offset: 0, 0
+  index: -1
+2nv-2
+  rotate: false
+  xy: 324, 89
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+3nv-1
+  rotate: false
+  xy: 238, 18
+  size: 84, 209
+  orig: 84, 209
+  offset: 0, 0
+  index: -1
+3nv-2
+  rotate: false
+  xy: 671, 79
+  size: 101, 186
+  orig: 101, 186
+  offset: 0, 0
+  index: -1
+3nv-3
+  rotate: false
+  xy: 1004, 17
+  size: 125, 83
+  orig: 125, 83
+  offset: 0, 0
+  index: -1
+4nv-1
+  rotate: true
+  xy: 2, 86
+  size: 141, 234
+  orig: 141, 234
+  offset: 0, 0
+  index: -1
+5nv-1
+  rotate: true
+  xy: 430, 12
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+5nv-2
+  rotate: true
+  xy: 324, 7
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+jiandao-1
+  rotate: false
+  xy: 1131, 2
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+jiandao-2
+  rotate: false
+  xy: 535, 40
+  size: 116, 28
+  orig: 116, 28
+  offset: 0, 0
+  index: -1
+jiankai-1
+  rotate: true
+  xy: 1145, 177
+  size: 353, 256
+  orig: 353, 256
+  offset: 0, 0
+  index: -1
+jiankai-2
+  rotate: false
+  xy: 423, 267
+  size: 356, 263
+  orig: 356, 263
+  offset: 0, 0
+  index: -1
+man-1
+  rotate: false
+  xy: 671, 11
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+man-2
+  rotate: false
+  xy: 1239, 11
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+man-3
+  rotate: true
+  xy: 781, 328
+  size: 202, 362
+  orig: 202, 362
+  offset: 0, 0
+  index: -1
+man-4
+  rotate: false
+  xy: 774, 8
+  size: 228, 92
+  orig: 228, 92
+  offset: 0, 0
+  index: -1
+man-5
+  rotate: false
+  xy: 1131, 45
+  size: 271, 130
+  orig: 271, 130
+  offset: 0, 0
+  index: -1
+nv-1
+  rotate: true
+  xy: 2, 229
+  size: 301, 419
+  orig: 301, 424
+  offset: 0, 5
+  index: -1
+nv-2
+  rotate: false
+  xy: 423, 70
+  size: 246, 195
+  orig: 246, 195
+  offset: 0, 0
+  index: -1
+nv-3
+  rotate: false
+  xy: 781, 102
+  size: 348, 224
+  orig: 348, 224
+  offset: 0, 0
+  index: -1

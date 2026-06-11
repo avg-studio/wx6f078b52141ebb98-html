@@ -1,0 +1,34 @@
+
+5522_love.png
+size: 48,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zgm_icon_01
+  rotate: true
+  xy: 2, 54
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+zgm_icon_02
+  rotate: true
+  xy: 2, 2
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+zgm_icon_04
+  rotate: true
+  xy: 2, 106
+  size: 37, 40
+  orig: 38, 40
+  offset: 1, 0
+  index: -1
+zgm_icon_05
+  rotate: true
+  xy: 2, 145
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1

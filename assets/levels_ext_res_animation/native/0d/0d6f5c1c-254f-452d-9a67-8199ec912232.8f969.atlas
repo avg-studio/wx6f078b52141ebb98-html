@@ -1,0 +1,62 @@
+
+5070_guodong.png
+size: 1104,1068
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2nainai-1
+  rotate: false
+  xy: 2, 418
+  size: 573, 229
+  orig: 573, 264
+  offset: 0, 1
+  index: -1
+2nainai-2
+  rotate: false
+  xy: 515, 2
+  size: 586, 233
+  orig: 586, 233
+  offset: 0, 0
+  index: -1
+2nvren-1
+  rotate: false
+  xy: 681, 769
+  size: 374, 295
+  orig: 402, 295
+  offset: 28, 0
+  index: -1
+2nvren-2
+  rotate: false
+  xy: 673, 472
+  size: 402, 295
+  orig: 402, 295
+  offset: 0, 0
+  index: -1
+nainai-1
+  rotate: false
+  xy: 2, 649
+  size: 669, 227
+  orig: 697, 233
+  offset: 4, 4
+  index: -1
+nainai-2
+  rotate: false
+  xy: 2, 878
+  size: 677, 186
+  orig: 677, 186
+  offset: 0, 0
+  index: -1
+nvren-1
+  rotate: false
+  xy: 577, 237
+  size: 499, 233
+  orig: 504, 236
+  offset: 3, 1
+  index: -1
+nvren-2
+  rotate: false
+  xy: 2, 173
+  size: 511, 243
+  orig: 511, 243
+  offset: 0, 0
+  index: -1

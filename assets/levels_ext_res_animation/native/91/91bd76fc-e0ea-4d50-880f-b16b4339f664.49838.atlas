@@ -1,0 +1,20 @@
+
+4458_yisheng.png
+size: 508,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+man-1
+  rotate: false
+  xy: 265, 3
+  size: 238, 570
+  orig: 242, 572
+  offset: 0, 2
+  index: -1
+man-2
+  rotate: false
+  xy: 2, 2
+  size: 261, 571
+  orig: 265, 573
+  offset: 0, 2
+  index: -1

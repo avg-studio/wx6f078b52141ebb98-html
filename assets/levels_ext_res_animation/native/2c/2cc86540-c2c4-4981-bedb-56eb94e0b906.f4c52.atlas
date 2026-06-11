@@ -1,0 +1,20 @@
+
+5117_nv.png
+size: 728,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NV1
+  rotate: true
+  xy: 2, 2
+  size: 237, 574
+  orig: 239, 574
+  offset: 0, 0
+  index: -1
+NV2
+  rotate: false
+  xy: 578, 36
+  size: 147, 203
+  orig: 224, 238
+  offset: 1, 14
+  index: -1

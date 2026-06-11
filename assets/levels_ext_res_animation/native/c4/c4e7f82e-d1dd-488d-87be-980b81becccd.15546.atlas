@@ -1,0 +1,83 @@
+
+5016_tiaowu.png
+size: 884,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibang-1
+  rotate: false
+  xy: 552, 269
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+beibang-2
+  rotate: false
+  xy: 354, 204
+  size: 196, 130
+  orig: 198, 136
+  offset: 1, 1
+  index: -1
+beibang-3
+  rotate: false
+  xy: 581, 45
+  size: 135, 143
+  orig: 135, 143
+  offset: 0, 0
+  index: -1
+beibang-4
+  rotate: false
+  xy: 371, 2
+  size: 208, 200
+  orig: 208, 204
+  offset: 0, 4
+  index: -1
+beibang-5
+  rotate: false
+  xy: 686, 190
+  size: 196, 346
+  orig: 383, 666
+  offset: 11, 319
+  index: -1
+beibang-6
+  rotate: false
+  xy: 718, 23
+  size: 69, 165
+  orig: 89, 207
+  offset: 5, 41
+  index: -1
+beibang-7
+  rotate: true
+  xy: 2, 153
+  size: 181, 350
+  orig: 181, 395
+  offset: 0, 0
+  index: -1
+beibang-8
+  rotate: true
+  xy: 2, 26
+  size: 125, 367
+  orig: 138, 373
+  offset: 8, 6
+  index: -1
+beibang-9
+  rotate: true
+  xy: 2, 336
+  size: 200, 682
+  orig: 200, 682
+  offset: 0, 0
+  index: -1
+gou-1
+  rotate: true
+  xy: 789, 53
+  size: 135, 60
+  orig: 161, 64
+  offset: 17, 3
+  index: -1
+gou-2
+  rotate: false
+  xy: 581, 7
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1

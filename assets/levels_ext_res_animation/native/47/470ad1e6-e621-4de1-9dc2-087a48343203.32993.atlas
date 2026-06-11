@@ -1,0 +1,48 @@
+
+4460_girlboy.png
+size: 656,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 380, 398
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 639, 714
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 2, 416
+  size: 316, 481
+  orig: 316, 481
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 2, 97
+  size: 317, 376
+  orig: 317, 376
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 380, 2
+  size: 274, 311
+  orig: 274, 311
+  offset: 0, 0
+  index: -1
+nv-1
+  rotate: false
+  xy: 485, 315
+  size: 152, 417
+  orig: 152, 418
+  offset: 0, 1
+  index: -1

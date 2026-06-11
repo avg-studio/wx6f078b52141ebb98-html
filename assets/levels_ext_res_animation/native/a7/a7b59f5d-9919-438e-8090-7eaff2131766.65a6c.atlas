@@ -1,0 +1,27 @@
+
+5080_xinfeng.png
+size: 332,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingshu-2
+  rotate: false
+  xy: 243, 327
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+qingshu-3
+  rotate: false
+  xy: 2, 2
+  size: 328, 150
+  orig: 328, 150
+  offset: 0, 0
+  index: -1
+qingshu-4
+  rotate: true
+  xy: 2, 154
+  size: 234, 239
+  orig: 234, 239
+  offset: 0, 0
+  index: -1

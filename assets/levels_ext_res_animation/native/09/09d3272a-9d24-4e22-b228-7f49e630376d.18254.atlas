@@ -1,0 +1,34 @@
+
+3602_theater.png
+size: 1467,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theater_01
+  rotate: false
+  xy: 2, 90
+  size: 633, 960
+  orig: 633, 960
+  offset: 0, 0
+  index: -1
+theater_02
+  rotate: true
+  xy: 637, 479
+  size: 571, 828
+  orig: 571, 829
+  offset: 0, 0
+  index: -1
+theater_03
+  rotate: false
+  xy: 637, 39
+  size: 411, 438
+  orig: 411, 438
+  offset: 0, 0
+  index: -1
+theater_04
+  rotate: false
+  xy: 2, 2
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1

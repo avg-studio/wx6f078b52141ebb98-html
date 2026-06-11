@@ -1,0 +1,117 @@
+
+5100_chifan.png
+size: 1860,1636
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chifan/chifan108
+  rotate: false
+  xy: 1238, 424
+  size: 616, 415
+  orig: 621, 426
+  offset: 3, 3
+  index: -1
+chifan/chifan112
+  rotate: false
+  xy: 620, 429
+  size: 616, 410
+  orig: 621, 426
+  offset: 4, 3
+  index: -1
+chifan/chifan12
+  rotate: false
+  xy: 2, 15
+  size: 616, 416
+  orig: 621, 426
+  offset: 3, 3
+  index: -1
+chifan/chifan20
+  rotate: false
+  xy: 1235, 841
+  size: 615, 404
+  orig: 621, 426
+  offset: 4, 3
+  index: -1
+chifan/chifan28
+  rotate: false
+  xy: 2, 855
+  size: 614, 396
+  orig: 621, 426
+  offset: 5, 3
+  index: -1
+chifan/chifan36
+  rotate: false
+  xy: 618, 1248
+  size: 614, 386
+  orig: 621, 426
+  offset: 5, 3
+  index: -1
+chifan/chifan44
+  rotate: false
+  xy: 2, 1253
+  size: 614, 381
+  orig: 621, 426
+  offset: 5, 3
+  index: -1
+chifan/chifan52
+  rotate: false
+  xy: 1234, 1247
+  size: 614, 387
+  orig: 621, 426
+  offset: 5, 3
+  index: -1
+chifan/chifan60
+  rotate: false
+  xy: 618, 845
+  size: 615, 400
+  orig: 621, 426
+  offset: 4, 3
+  index: -1
+chifan/chifan68
+  rotate: false
+  xy: 2, 433
+  size: 616, 410
+  orig: 621, 426
+  offset: 3, 3
+  index: -1
+chifan/chifan76
+  rotate: false
+  xy: 620, 6
+  size: 617, 416
+  orig: 621, 426
+  offset: 2, 3
+  index: -1
+chifan/chifan84
+  rotate: false
+  xy: 1239, 2
+  size: 617, 420
+  orig: 621, 426
+  offset: 2, 3
+  index: -1
+
+5100_chifan2.png
+size: 1860,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chifan/chifan100
+  rotate: false
+  xy: 1240, 2
+  size: 617, 423
+  orig: 621, 426
+  offset: 2, 3
+  index: -1
+chifan/chifan4
+  rotate: false
+  xy: 2, 2
+  size: 617, 423
+  orig: 621, 426
+  offset: 2, 3
+  index: -1
+chifan/chifan92
+  rotate: false
+  xy: 621, 2
+  size: 617, 423
+  orig: 621, 426
+  offset: 2, 3
+  index: -1

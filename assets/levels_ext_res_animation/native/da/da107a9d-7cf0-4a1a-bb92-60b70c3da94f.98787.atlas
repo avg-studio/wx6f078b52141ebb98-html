@@ -1,0 +1,27 @@
+
+4976_laoren.png
+size: 1324,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ren-1
+  rotate: true
+  xy: 1020, 3
+  size: 196, 302
+  orig: 199, 302
+  offset: 0, 0
+  index: -1
+ren-2
+  rotate: true
+  xy: 503, 21
+  size: 178, 515
+  orig: 178, 516
+  offset: 0, 1
+  index: -1
+ren-3
+  rotate: true
+  xy: 2, 2
+  size: 197, 499
+  orig: 197, 499
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+5021_xiaotou.png
+size: 576,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laonainai
+  rotate: true
+  xy: 2, 2
+  size: 225, 558
+  orig: 225, 559
+  offset: 0, 0
+  index: -1
+laonainai2
+  rotate: true
+  xy: 2, 229
+  size: 211, 572
+  orig: 221, 577
+  offset: 8, 2
+  index: -1

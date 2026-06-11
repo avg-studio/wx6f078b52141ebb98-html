@@ -1,0 +1,201 @@
+
+5019_dance.png
+size: 2044,1900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laonai_00000
+  rotate: false
+  xy: 2, 2
+  size: 286, 722
+  orig: 582, 784
+  offset: 136, 58
+  index: -1
+laonai_00002
+  rotate: true
+  xy: 1010, 454
+  size: 307, 718
+  orig: 582, 784
+  offset: 115, 58
+  index: -1
+laonai_00020
+  rotate: false
+  xy: 1730, 47
+  size: 310, 716
+  orig: 582, 784
+  offset: 113, 58
+  index: -1
+laonai_00022
+  rotate: false
+  xy: 675, 462
+  size: 333, 709
+  orig: 582, 784
+  offset: 92, 58
+  index: -1
+laonai_00024
+  rotate: false
+  xy: 290, 41
+  size: 376, 683
+  orig: 582, 784
+  offset: 55, 58
+  index: -1
+laonai_00028
+  rotate: true
+  xy: 978, 1457
+  size: 441, 673
+  orig: 582, 784
+  offset: 0, 58
+  index: -1
+laonai_00030
+  rotate: true
+  xy: 2, 726
+  size: 445, 671
+  orig: 582, 784
+  offset: 0, 58
+  index: -1
+laonai_00032
+  rotate: true
+  xy: 301, 1454
+  size: 444, 675
+  orig: 582, 784
+  offset: 0, 58
+  index: -1
+laonai_00034
+  rotate: true
+  xy: 668, 15
+  size: 437, 680
+  orig: 582, 784
+  offset: 0, 58
+  index: -1
+laonai_00038
+  rotate: false
+  xy: 1020, 763
+  size: 402, 692
+  orig: 582, 784
+  offset: 26, 58
+  index: -1
+laonai_00040
+  rotate: false
+  xy: 1424, 765
+  size: 371, 690
+  orig: 582, 784
+  offset: 51, 58
+  index: -1
+laonai_00050
+  rotate: true
+  xy: 301, 1173
+  size: 279, 717
+  orig: 582, 784
+  offset: 132, 58
+  index: -1
+laonai_00052
+  rotate: false
+  xy: 2, 1173
+  size: 297, 725
+  orig: 582, 784
+  offset: 115, 58
+  index: -1
+
+5019_dance2.png
+size: 1988,1848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laonai_00004
+  rotate: false
+  xy: 2, 428
+  size: 351, 704
+  orig: 582, 784
+  offset: 70, 58
+  index: -1
+laonai_00006
+  rotate: false
+  xy: 572, 1156
+  size: 369, 690
+  orig: 582, 784
+  offset: 52, 58
+  index: -1
+laonai_00008
+  rotate: false
+  xy: 644, 467
+  size: 366, 687
+  orig: 582, 784
+  offset: 57, 58
+  index: -1
+laonai_00010
+  rotate: false
+  xy: 943, 1160
+  size: 355, 686
+  orig: 582, 784
+  offset: 68, 58
+  index: -1
+laonai_00012
+  rotate: true
+  xy: 1300, 1170
+  size: 330, 685
+  orig: 582, 784
+  offset: 91, 58
+  index: -1
+laonai_00014
+  rotate: true
+  xy: 1300, 859
+  size: 309, 683
+  orig: 582, 784
+  offset: 111, 58
+  index: -1
+laonai_00016
+  rotate: false
+  xy: 355, 443
+  size: 287, 700
+  orig: 582, 784
+  offset: 133, 58
+  index: -1
+laonai_00018
+  rotate: false
+  xy: 2, 1134
+  size: 290, 712
+  orig: 582, 784
+  offset: 131, 58
+  index: -1
+laonai_00026
+  rotate: true
+  xy: 692, 55
+  size: 410, 678
+  orig: 582, 784
+  offset: 25, 58
+  index: -1
+laonai_00036
+  rotate: true
+  xy: 2, 2
+  size: 424, 688
+  orig: 582, 784
+  offset: 8, 58
+  index: -1
+laonai_00042
+  rotate: true
+  xy: 1300, 1502
+  size: 344, 685
+  orig: 582, 784
+  offset: 75, 58
+  index: -1
+laonai_00044
+  rotate: true
+  xy: 1012, 547
+  size: 310, 678
+  orig: 582, 784
+  offset: 106, 58
+  index: -1
+laonai_00046
+  rotate: false
+  xy: 1692, 174
+  size: 289, 683
+  orig: 582, 784
+  offset: 124, 58
+  index: -1
+laonai_00048
+  rotate: false
+  xy: 294, 1145
+  size: 276, 701
+  orig: 582, 784
+  offset: 136, 58
+  index: -1

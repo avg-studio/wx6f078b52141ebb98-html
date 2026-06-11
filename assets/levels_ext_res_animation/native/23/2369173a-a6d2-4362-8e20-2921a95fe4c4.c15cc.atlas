@@ -1,0 +1,27 @@
+
+5012_weifang.png
+size: 920,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvren-1
+  rotate: false
+  xy: 882, 29
+  size: 34, 109
+  orig: 34, 109
+  offset: 0, 0
+  index: -1
+nvren-2
+  rotate: true
+  xy: 2, 15
+  size: 123, 499
+  orig: 123, 499
+  offset: 0, 0
+  index: -1
+xiaohai-1
+  rotate: true
+  xy: 503, 2
+  size: 136, 377
+  orig: 136, 377
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+5169_paiqiu.png
+size: 2040,1224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yc/yc_0
+  rotate: true
+  xy: 2, 610
+  size: 611, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+yc/yc_1
+  rotate: true
+  xy: 294, 610
+  size: 611, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+yc/yc_10
+  rotate: true
+  xy: 1749, 11
+  size: 610, 285
+  orig: 612, 290
+  offset: 1, 5
+  index: -1
+yc/yc_12
+  rotate: true
+  xy: 2, 2
+  size: 606, 287
+  orig: 612, 290
+  offset: 5, 3
+  index: -1
+yc/yc_14
+  rotate: true
+  xy: 1161, 9
+  size: 599, 289
+  orig: 612, 290
+  offset: 12, 1
+  index: -1
+yc/yc_16
+  rotate: true
+  xy: 291, 8
+  size: 600, 289
+  orig: 612, 290
+  offset: 11, 1
+  index: -1
+yc/yc_18
+  rotate: true
+  xy: 582, 8
+  size: 600, 288
+  orig: 612, 290
+  offset: 11, 0
+  index: -1
+yc/yc_20
+  rotate: true
+  xy: 872, 8
+  size: 600, 287
+  orig: 612, 290
+  offset: 11, 1
+  index: -1
+yc/yc_22
+  rotate: true
+  xy: 1749, 623
+  size: 598, 286
+  orig: 612, 290
+  offset: 13, 2
+  index: -1
+yc/yc_23
+  rotate: true
+  xy: 1452, 9
+  size: 599, 285
+  orig: 612, 290
+  offset: 12, 3
+  index: -1
+yc/yc_3
+  rotate: true
+  xy: 586, 610
+  size: 611, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+yc/yc_4
+  rotate: true
+  xy: 878, 610
+  size: 611, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+yc/yc_6
+  rotate: true
+  xy: 1170, 610
+  size: 611, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+yc/yc_8
+  rotate: true
+  xy: 1462, 610
+  size: 611, 285
+  orig: 612, 290
+  offset: 0, 5
+  index: -1

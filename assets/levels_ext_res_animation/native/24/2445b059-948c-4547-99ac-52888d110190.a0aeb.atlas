@@ -1,0 +1,229 @@
+
+5090_chaocai.png
+size: 1892,1960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: false
+  xy: 2, 1554
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00002
+  rotate: true
+  xy: 2, 1217
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00004
+  rotate: true
+  xy: 339, 1622
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00006
+  rotate: false
+  xy: 407, 1217
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00008
+  rotate: true
+  xy: 2, 880
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00010
+  rotate: true
+  xy: 407, 880
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00012
+  rotate: true
+  xy: 744, 1622
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00014
+  rotate: true
+  xy: 744, 1285
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00016
+  rotate: false
+  xy: 812, 880
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00018
+  rotate: false
+  xy: 1149, 1554
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00020
+  rotate: false
+  xy: 1149, 1149
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00022
+  rotate: false
+  xy: 1149, 744
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00024
+  rotate: true
+  xy: 2, 543
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00026
+  rotate: false
+  xy: 407, 475
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00028
+  rotate: false
+  xy: 2, 138
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00030
+  rotate: false
+  xy: 744, 475
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00032
+  rotate: true
+  xy: 1081, 407
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00034
+  rotate: true
+  xy: 339, 138
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00036
+  rotate: false
+  xy: 744, 70
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00038
+  rotate: true
+  xy: 1081, 70
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00040
+  rotate: false
+  xy: 1486, 1554
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00042
+  rotate: false
+  xy: 1486, 1149
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00044
+  rotate: false
+  xy: 1486, 744
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00046
+  rotate: false
+  xy: 1486, 339
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00048
+  rotate: true
+  xy: 1486, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+
+5090_chaocai2.png
+size: 2024,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00050
+  rotate: false
+  xy: 2, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00052
+  rotate: false
+  xy: 339, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00054
+  rotate: false
+  xy: 676, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00056
+  rotate: false
+  xy: 1013, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00058
+  rotate: false
+  xy: 1350, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1
+0_00060
+  rotate: false
+  xy: 1687, 2
+  size: 335, 403
+  orig: 335, 403
+  offset: 0, 0
+  index: -1

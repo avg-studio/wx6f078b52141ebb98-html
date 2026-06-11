@@ -1,0 +1,27 @@
+
+5126_xingfu.png
+size: 588,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiating-1
+  rotate: false
+  xy: 218, 12
+  size: 218, 384
+  orig: 232, 393
+  offset: 7, 8
+  index: -1
+jiating-2
+  rotate: false
+  xy: 2, 2
+  size: 214, 394
+  orig: 216, 402
+  offset: 1, 8
+  index: -1
+jiating-3
+  rotate: false
+  xy: 438, 124
+  size: 146, 272
+  orig: 159, 290
+  offset: 9, 6
+  index: -1

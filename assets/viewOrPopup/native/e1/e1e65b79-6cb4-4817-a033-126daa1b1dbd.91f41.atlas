@@ -1,0 +1,83 @@
+
+6295_cbl.png
+size: 1908,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cbl-1
+  rotate: false
+  xy: 1134, 601
+  size: 556, 445
+  orig: 556, 445
+  offset: 0, 0
+  index: -1
+cbl-2
+  rotate: true
+  xy: 2, 480
+  size: 566, 1130
+  orig: 566, 1130
+  offset: 0, 0
+  index: -1
+cbl-3
+  rotate: true
+  xy: 2, 2
+  size: 476, 875
+  orig: 476, 875
+  offset: 0, 0
+  index: -1
+cbl-4
+  rotate: false
+  xy: 1134, 497
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+cbl-5
+  rotate: false
+  xy: 879, 38
+  size: 552, 440
+  orig: 552, 440
+  offset: 0, 0
+  index: -1
+cbl-6
+  rotate: true
+  xy: 1433, 47
+  size: 552, 440
+  orig: 552, 440
+  offset: 0, 0
+  index: -1
+cbl-7
+  rotate: false
+  xy: 1825, 882
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+cbl-8
+  rotate: true
+  xy: 1692, 629
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+dy-1
+  rotate: false
+  xy: 1692, 773
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+wz-1
+  rotate: false
+  xy: 1134, 545
+  size: 287, 54
+  orig: 289, 55
+  offset: 1, 1
+  index: -1
+wz-2
+  rotate: false
+  xy: 1692, 925
+  size: 214, 121
+  orig: 216, 121
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+4996_yewan.png
+size: 400,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nainai-
+  rotate: true
+  xy: 224, 12
+  size: 120, 173
+  orig: 120, 173
+  offset: 0, 0
+  index: -1
+nainai-1
+  rotate: false
+  xy: 285, 153
+  size: 56, 52
+  orig: 62, 232
+  offset: 6, 1
+  index: -1
+nainai-2
+  rotate: true
+  xy: 285, 207
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+nainai-3
+  rotate: true
+  xy: 178, 312
+  size: 235, 213
+  orig: 235, 213
+  offset: 0, 0
+  index: -1
+nainai-4
+  rotate: true
+  xy: 2, 2
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+nanhai-1
+  rotate: true
+  xy: 178, 134
+  size: 176, 105
+  orig: 176, 105
+  offset: 0, 0
+  index: -1
+nanhai-2
+  rotate: false
+  xy: 2, 78
+  size: 174, 469
+  orig: 193, 469
+  offset: 0, 0
+  index: -1
+nanhai-3
+  rotate: false
+  xy: 84, 3
+  size: 138, 73
+  orig: 138, 74
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+4984_nannv.png
+size: 876,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nan1
+  rotate: false
+  xy: 761, 42
+  size: 98, 98
+  orig: 126, 98
+  offset: 28, 0
+  index: -1
+nan2
+  rotate: true
+  xy: 2, 5
+  size: 135, 251
+  orig: 135, 251
+  offset: 0, 0
+  index: -1
+nan3
+  rotate: false
+  xy: 643, 5
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+nv1
+  rotate: false
+  xy: 761, 3
+  size: 113, 37
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: true
+  xy: 255, 17
+  size: 123, 262
+  orig: 123, 262
+  offset: 0, 0
+  index: -1
+nv3
+  rotate: true
+  xy: 519, 2
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1

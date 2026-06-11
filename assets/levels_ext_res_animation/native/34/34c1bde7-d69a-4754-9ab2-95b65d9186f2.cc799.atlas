@@ -1,0 +1,258 @@
+
+5020_xiaotou.png
+size: 1980,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_00000
+  rotate: false
+  xy: 2, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00001
+  rotate: false
+  xy: 2, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00002
+  rotate: false
+  xy: 2, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00003
+  rotate: false
+  xy: 249, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00004
+  rotate: false
+  xy: 2, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00005
+  rotate: false
+  xy: 249, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00006
+  rotate: false
+  xy: 249, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00007
+  rotate: false
+  xy: 496, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00008
+  rotate: false
+  xy: 249, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00009
+  rotate: true
+  xy: 2, 2
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00010
+  rotate: false
+  xy: 496, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00011
+  rotate: false
+  xy: 496, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00012
+  rotate: false
+  xy: 743, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00013
+  rotate: false
+  xy: 496, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00014
+  rotate: true
+  xy: 304, 2
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00015
+  rotate: false
+  xy: 743, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00016
+  rotate: false
+  xy: 743, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00017
+  rotate: false
+  xy: 990, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00018
+  rotate: false
+  xy: 743, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00019
+  rotate: true
+  xy: 606, 2
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00020
+  rotate: false
+  xy: 990, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00021
+  rotate: false
+  xy: 990, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00022
+  rotate: false
+  xy: 1237, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00023
+  rotate: false
+  xy: 990, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00024
+  rotate: true
+  xy: 908, 2
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00025
+  rotate: false
+  xy: 1237, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00026
+  rotate: false
+  xy: 1237, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00027
+  rotate: false
+  xy: 1484, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00028
+  rotate: false
+  xy: 1237, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00029
+  rotate: false
+  xy: 1484, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00030
+  rotate: false
+  xy: 1731, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00031
+  rotate: false
+  xy: 1731, 853
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00032
+  rotate: false
+  xy: 1484, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00033
+  rotate: true
+  xy: 1210, 2
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00034
+  rotate: false
+  xy: 1731, 551
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1
+00_00035
+  rotate: false
+  xy: 1731, 249
+  size: 245, 300
+  orig: 245, 300
+  offset: 0, 0
+  index: -1

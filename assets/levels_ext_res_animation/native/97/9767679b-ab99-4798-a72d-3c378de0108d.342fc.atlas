@@ -1,0 +1,118 @@
+
+3644_Woman.png
+size: 1979,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clos
+  rotate: true
+  xy: 2, 264
+  size: 256, 667
+  orig: 258, 669
+  offset: 1, 1
+  index: -1
+clos_2
+  rotate: true
+  xy: 2, 6
+  size: 256, 667
+  orig: 258, 669
+  offset: 1, 1
+  index: -1
+door_1
+  rotate: true
+  xy: 714, 5
+  size: 68, 876
+  orig: 68, 876
+  offset: 0, 0
+  index: -1
+door_2
+  rotate: true
+  xy: 671, 418
+  size: 102, 1112
+  orig: 102, 1112
+  offset: 0, 0
+  index: -1
+fd_1
+  rotate: false
+  xy: 1785, 16
+  size: 192, 504
+  orig: 194, 506
+  offset: 1, 1
+  index: -1
+han_1
+  rotate: false
+  xy: 697, 5
+  size: 7, 9
+  orig: 10, 11
+  offset: 2, 1
+  index: -1
+han_2
+  rotate: false
+  xy: 687, 5
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+han_3
+  rotate: false
+  xy: 706, 8
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+nr_1
+  rotate: true
+  xy: 714, 237
+  size: 179, 637
+  orig: 179, 637
+  offset: 0, 0
+  index: -1
+nr_2
+  rotate: true
+  xy: 671, 75
+  size: 160, 616
+  orig: 160, 616
+  offset: 0, 0
+  index: -1
+qsb_01
+  rotate: false
+  xy: 1353, 272
+  size: 85, 144
+  orig: 85, 144
+  offset: 0, 0
+  index: -1
+qsb_02
+  rotate: false
+  xy: 1440, 284
+  size: 78, 132
+  orig: 78, 132
+  offset: 0, 0
+  index: -1
+sb_1
+  rotate: false
+  xy: 1289, 78
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+sb_2
+  rotate: false
+  xy: 1404, 82
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 671, 2
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+yy_1
+  rotate: false
+  xy: 1289, 146
+  size: 193, 89
+  orig: 195, 91
+  offset: 1, 1
+  index: -1

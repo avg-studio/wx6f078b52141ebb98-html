@@ -1,0 +1,216 @@
+
+5113_bajie.png
+size: 1948,1628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bajie/bajie_0
+  rotate: false
+  xy: 849, 16
+  size: 198, 361
+  orig: 390, 512
+  offset: 90, 75
+  index: -1
+bajie/bajie_100
+  rotate: true
+  xy: 1547, 1205
+  size: 219, 393
+  orig: 390, 512
+  offset: 28, 52
+  index: -1
+bajie/bajie_104
+  rotate: false
+  xy: 1237, 1223
+  size: 208, 403
+  orig: 390, 512
+  offset: 61, 52
+  index: -1
+bajie/bajie_108
+  rotate: false
+  xy: 275, 295
+  size: 250, 425
+  orig: 390, 512
+  offset: 66, 52
+  index: -1
+bajie/bajie_112
+  rotate: false
+  xy: 1013, 395
+  size: 258, 405
+  orig: 390, 512
+  offset: 104, 51
+  index: -1
+bajie/bajie_116
+  rotate: true
+  xy: 1547, 957
+  size: 246, 392
+  orig: 390, 512
+  offset: 102, 52
+  index: -1
+bajie/bajie_12
+  rotate: true
+  xy: 1547, 1426
+  size: 200, 397
+  orig: 390, 512
+  offset: 90, 75
+  index: -1
+bajie/bajie_120
+  rotate: false
+  xy: 729, 1214
+  size: 258, 412
+  orig: 390, 512
+  offset: 72, 53
+  index: -1
+bajie/bajie_16
+  rotate: false
+  xy: 1277, 4
+  size: 212, 401
+  orig: 390, 512
+  offset: 68, 82
+  index: -1
+bajie/bajie_20
+  rotate: true
+  xy: 1482, 424
+  size: 262, 378
+  orig: 390, 512
+  offset: 20, 82
+  index: -1
+bajie/bajie_24
+  rotate: true
+  xy: 426, 20
+  size: 273, 421
+  orig: 390, 512
+  offset: 38, 69
+  index: -1
+bajie/bajie_28
+  rotate: false
+  xy: 261, 1186
+  size: 211, 440
+  orig: 390, 512
+  offset: 95, 46
+  index: -1
+bajie/bajie_32
+  rotate: false
+  xy: 1087, 811
+  size: 197, 405
+  orig: 390, 512
+  offset: 123, 46
+  index: -1
+bajie/bajie_36
+  rotate: false
+  xy: 527, 345
+  size: 237, 417
+  orig: 390, 512
+  offset: 91, 45
+  index: -1
+bajie/bajie_4
+  rotate: false
+  xy: 1680, 65
+  size: 193, 357
+  orig: 390, 512
+  offset: 97, 75
+  index: -1
+bajie/bajie_40
+  rotate: false
+  xy: 2, 722
+  size: 310, 446
+  orig: 390, 512
+  offset: 24, 36
+  index: -1
+bajie/bajie_44
+  rotate: false
+  xy: 586, 793
+  size: 239, 414
+  orig: 390, 512
+  offset: 46, 36
+  index: -1
+bajie/bajie_48
+  rotate: false
+  xy: 2, 1170
+  size: 257, 456
+  orig: 390, 512
+  offset: 43, 35
+  index: -1
+bajie/bajie_56
+  rotate: false
+  xy: 314, 764
+  size: 270, 420
+  orig: 390, 512
+  offset: 68, 45
+  index: -1
+bajie/bajie_60
+  rotate: false
+  xy: 989, 1218
+  size: 246, 408
+  orig: 390, 512
+  offset: 104, 45
+  index: -1
+bajie/bajie_64
+  rotate: false
+  xy: 2, 291
+  size: 271, 429
+  orig: 390, 512
+  offset: 70, 45
+  index: -1
+bajie/bajie_68
+  rotate: false
+  xy: 474, 1209
+  size: 253, 417
+  orig: 390, 512
+  offset: 19, 52
+  index: -1
+bajie/bajie_72
+  rotate: false
+  xy: 1049, 2
+  size: 226, 391
+  orig: 390, 512
+  offset: 14, 52
+  index: -1
+bajie/bajie_76
+  rotate: false
+  xy: 1273, 407
+  size: 207, 402
+  orig: 390, 512
+  offset: 51, 51
+  index: -1
+bajie/bajie_8
+  rotate: false
+  xy: 1491, 64
+  size: 187, 358
+  orig: 390, 512
+  offset: 103, 75
+  index: -1
+bajie/bajie_80
+  rotate: true
+  xy: 2, 11
+  size: 278, 422
+  orig: 390, 512
+  offset: 40, 52
+  index: -1
+bajie/bajie_84
+  rotate: false
+  xy: 1286, 822
+  size: 259, 399
+  orig: 390, 512
+  offset: 104, 52
+  index: -1
+bajie/bajie_88
+  rotate: true
+  xy: 1547, 688
+  size: 267, 386
+  orig: 390, 512
+  offset: 104, 52
+  index: -1
+bajie/bajie_92
+  rotate: false
+  xy: 766, 379
+  size: 245, 412
+  orig: 390, 512
+  offset: 82, 52
+  index: -1
+bajie/bajie_96
+  rotate: false
+  xy: 827, 802
+  size: 258, 410
+  orig: 390, 512
+  offset: 33, 52
+  index: -1

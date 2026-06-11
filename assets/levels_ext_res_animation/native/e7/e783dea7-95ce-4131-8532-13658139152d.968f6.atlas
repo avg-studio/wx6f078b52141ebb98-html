@@ -1,0 +1,62 @@
+
+5149_ren.png
+size: 1068,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meinv-1
+  rotate: false
+  xy: 311, 15
+  size: 251, 513
+  orig: 637, 513
+  offset: 0, 0
+  index: -1
+meinv-2
+  rotate: false
+  xy: 564, 2
+  size: 172, 52
+  orig: 172, 52
+  offset: 0, 0
+  index: -1
+shuaige-2
+  rotate: false
+  xy: 564, 2
+  size: 172, 52
+  orig: 172, 52
+  offset: 0, 0
+  index: -1
+nainai-1
+  rotate: false
+  xy: 824, 96
+  size: 241, 432
+  orig: 241, 432
+  offset: 0, 0
+  index: -1
+nainai-2
+  rotate: false
+  xy: 824, 2
+  size: 160, 92
+  orig: 160, 92
+  offset: 0, 0
+  index: -1
+shuaige-1
+  rotate: false
+  xy: 2, 15
+  size: 307, 513
+  orig: 307, 513
+  offset: 0, 0
+  index: -1
+yeye-1
+  rotate: false
+  xy: 986, 8
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+yeye-2
+  rotate: false
+  xy: 564, 56
+  size: 258, 472
+  orig: 258, 472
+  offset: 0, 0
+  index: -1

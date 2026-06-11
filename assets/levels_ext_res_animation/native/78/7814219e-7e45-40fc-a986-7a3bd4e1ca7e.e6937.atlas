@@ -1,0 +1,20 @@
+
+5029_LH149.png
+size: 340,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lao
+  rotate: false
+  xy: 2, 2
+  size: 205, 362
+  orig: 205, 369
+  offset: 0, 0
+  index: -1
+nv
+  rotate: true
+  xy: 209, 54
+  size: 310, 128
+  orig: 311, 128
+  offset: 1, 0
+  index: -1

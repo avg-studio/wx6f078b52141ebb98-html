@@ -1,0 +1,55 @@
+
+6693_chacha.png
+size: 360,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cha
+  rotate: false
+  xy: 210, 138
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+cha1
+  rotate: false
+  xy: 282, 138
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+cha2
+  rotate: false
+  xy: 210, 66
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+cha3
+  rotate: false
+  xy: 282, 66
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+gq_frame_x_03
+  rotate: false
+  xy: 2, 2
+  size: 206, 206
+  orig: 216, 208
+  offset: 5, 1
+  index: -1
+gq_frame_x_04
+  rotate: true
+  xy: 288, 9
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+gq_frame_x_05
+  rotate: true
+  xy: 210, 14
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1

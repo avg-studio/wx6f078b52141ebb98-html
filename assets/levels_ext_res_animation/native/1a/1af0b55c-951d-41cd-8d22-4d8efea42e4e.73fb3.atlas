@@ -1,0 +1,69 @@
+
+4995_huoche.png
+size: 468,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dxg-1
+  rotate: false
+  xy: 401, 108
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+dxg-2
+  rotate: false
+  xy: 437, 75
+  size: 27, 107
+  orig: 27, 107
+  offset: 0, 0
+  index: -1
+dxg-3
+  rotate: false
+  xy: 397, 36
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+dxg-4
+  rotate: false
+  xy: 401, 184
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+fei
+  rotate: true
+  xy: 443, 247
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+nan-1
+  rotate: true
+  xy: 271, 175
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+nan-2
+  rotate: true
+  xy: 271, 59
+  size: 114, 124
+  orig: 114, 124
+  offset: 0, 0
+  index: -1
+nan-3
+  rotate: false
+  xy: 2, 2
+  size: 267, 762
+  orig: 267, 768
+  offset: 0, 6
+  index: -1
+zuo
+  rotate: false
+  xy: 271, 287
+  size: 194, 477
+  orig: 194, 477
+  offset: 0, 0
+  index: -1

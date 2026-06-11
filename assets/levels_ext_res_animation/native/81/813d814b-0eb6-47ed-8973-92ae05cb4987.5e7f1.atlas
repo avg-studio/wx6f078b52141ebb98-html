@@ -1,0 +1,97 @@
+
+4159_girl.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ns-1
+  rotate: false
+  xy: 1328, 101
+  size: 90, 153
+  orig: 90, 153
+  offset: 0, 0
+  index: -1
+2ns-10
+  rotate: true
+  xy: 1328, 4
+  size: 95, 375
+  orig: 95, 375
+  offset: 0, 0
+  index: -1
+2ns-11
+  rotate: false
+  xy: 732, 50
+  size: 86, 204
+  orig: 86, 204
+  offset: 0, 0
+  index: -1
+2ns-12
+  rotate: true
+  xy: 1512, 111
+  size: 143, 125
+  orig: 145, 126
+  offset: 2, 0
+  index: -1
+2ns-13
+  rotate: true
+  xy: 820, 56
+  size: 198, 101
+  orig: 198, 101
+  offset: 0, 0
+  index: -1
+2ns-2
+  rotate: false
+  xy: 1420, 101
+  size: 90, 153
+  orig: 90, 153
+  offset: 0, 0
+  index: -1
+2ns-3
+  rotate: false
+  xy: 848, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+2ns-4
+  rotate: true
+  xy: 817, 17
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+2ns-5
+  rotate: true
+  xy: 848, 23
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+2ns-7
+  rotate: false
+  xy: 781, 9
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+2ns-8
+  rotate: true
+  xy: 732, 3
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+2ns-9
+  rotate: true
+  xy: 923, 82
+  size: 172, 403
+  orig: 187, 404
+  offset: 8, 1
+  index: -1
+ns-1
+  rotate: true
+  xy: 2, 20
+  size: 234, 728
+  orig: 240, 728
+  offset: 0, 0
+  index: -1

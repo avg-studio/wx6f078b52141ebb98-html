@@ -1,0 +1,34 @@
+
+5047_paobu.png
+size: 1040,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paobu-1
+  rotate: true
+  xy: 798, 7
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+paobu-2
+  rotate: false
+  xy: 798, 308
+  size: 237, 130
+  orig: 257, 135
+  offset: 0, 0
+  index: -1
+paobu-3
+  rotate: true
+  xy: 798, 68
+  size: 238, 128
+  orig: 241, 130
+  offset: 0, 1
+  index: -1
+paobu-4
+  rotate: true
+  xy: 2, 2
+  size: 436, 794
+  orig: 450, 798
+  offset: 0, 0
+  index: -1

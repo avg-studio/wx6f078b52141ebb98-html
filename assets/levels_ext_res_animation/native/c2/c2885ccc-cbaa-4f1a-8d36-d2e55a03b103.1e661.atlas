@@ -1,0 +1,20 @@
+
+4956_gou.png
+size: 184,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou-1
+  rotate: false
+  xy: 2, 2
+  size: 145, 111
+  orig: 199, 112
+  offset: 1, 1
+  index: -1
+gou-2
+  rotate: false
+  xy: 149, 67
+  size: 33, 46
+  orig: 38, 47
+  offset: 5, 1
+  index: -1

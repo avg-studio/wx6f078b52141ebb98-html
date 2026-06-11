@@ -1,0 +1,76 @@
+
+5078_jiemei.png
+size: 564,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiejie_xin1
+  rotate: true
+  xy: 2, 332
+  size: 191, 560
+  orig: 192, 624
+  offset: 1, 4
+  index: -1
+jiejie_xin2
+  rotate: false
+  xy: 185, 25
+  size: 180, 122
+  orig: 198, 139
+  offset: 9, 9
+  index: -1
+jiemei_jiu1
+  rotate: true
+  xy: 2, 149
+  size: 181, 377
+  orig: 181, 377
+  offset: 0, 0
+  index: -1
+jiemei_jiu2
+  rotate: true
+  xy: 381, 108
+  size: 222, 136
+  orig: 230, 151
+  offset: 4, 11
+  index: -1
+jiemei_jiu3
+  rotate: false
+  xy: 317, 680
+  size: 219, 372
+  orig: 219, 372
+  offset: 0, 0
+  index: -1
+jiemei_jiu4
+  rotate: false
+  xy: 317, 539
+  size: 240, 139
+  orig: 240, 139
+  offset: 0, 0
+  index: -1
+meimei1
+  rotate: false
+  xy: 2, 525
+  size: 313, 527
+  orig: 313, 529
+  offset: 0, 2
+  index: -1
+meimei2
+  rotate: false
+  xy: 2, 14
+  size: 181, 133
+  orig: 181, 133
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 519, 227
+  size: 32, 103
+  orig: 66, 117
+  offset: 0, 14
+  index: -1
+shou2
+  rotate: true
+  xy: 367, 2
+  size: 104, 177
+  orig: 109, 177
+  offset: 0, 0
+  index: -1

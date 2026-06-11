@@ -1,0 +1,20 @@
+
+6770_icon.png
+size: 132,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiang
+  rotate: false
+  xy: 80, 11
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+sj
+  rotate: true
+  xy: 2, 2
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1

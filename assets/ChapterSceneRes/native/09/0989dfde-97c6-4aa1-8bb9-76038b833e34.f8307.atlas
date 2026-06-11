@@ -1,0 +1,20 @@
+
+6222_suo.png
+size: 164,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suo
+  rotate: false
+  xy: 2, 2
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: false
+  xy: 91, 2
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1

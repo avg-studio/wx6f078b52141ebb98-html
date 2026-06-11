@@ -1,0 +1,41 @@
+
+5561_UI.png
+size: 168,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_icon_03
+  rotate: false
+  xy: 105, 32
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 32
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+lb1
+  rotate: true
+  xy: 105, 62
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+lb2
+  rotate: false
+  xy: 96, 7
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 2, 2
+  size: 92, 28
+  orig: 92, 28
+  offset: 0, 0
+  index: -1

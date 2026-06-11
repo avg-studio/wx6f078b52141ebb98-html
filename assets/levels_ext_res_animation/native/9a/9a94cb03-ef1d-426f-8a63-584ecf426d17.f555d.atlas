@@ -1,0 +1,41 @@
+
+5150_end.png
+size: 1968,1076
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kiss-
+  rotate: true
+  xy: 1053, 756
+  size: 315, 913
+  orig: 315, 913
+  offset: 0, 0
+  index: -1
+kiss-1
+  rotate: false
+  xy: 2, 961
+  size: 134, 110
+  orig: 134, 110
+  offset: 0, 0
+  index: -1
+kiss-2
+  rotate: true
+  xy: 2, 3
+  size: 752, 855
+  orig: 752, 855
+  offset: 0, 0
+  index: -1
+kiss-3
+  rotate: true
+  xy: 138, 757
+  size: 314, 913
+  orig: 314, 913
+  offset: 0, 0
+  index: -1
+kiss-4
+  rotate: true
+  xy: 859, 2
+  size: 752, 1036
+  orig: 752, 1036
+  offset: 0, 0
+  index: -1

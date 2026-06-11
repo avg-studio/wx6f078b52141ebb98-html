@@ -1,0 +1,69 @@
+
+5008_chaocai.png
+size: 1704,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoren
+  rotate: true
+  xy: 1048, 328
+  size: 315, 653
+  orig: 315, 653
+  offset: 0, 0
+  index: -1
+laoren2
+  rotate: true
+  xy: 1048, 12
+  size: 314, 653
+  orig: 315, 653
+  offset: 1, 0
+  index: -1
+laorenmeinv
+  rotate: true
+  xy: 283, 253
+  size: 390, 655
+  orig: 390, 655
+  offset: 0, 0
+  index: -1
+xiaogou
+  rotate: false
+  xy: 509, 4
+  size: 262, 247
+  orig: 266, 258
+  offset: 4, 10
+  index: -1
+zuocai-1
+  rotate: false
+  xy: 283, 2
+  size: 224, 249
+  orig: 225, 249
+  offset: 1, 0
+  index: -1
+zuocai-2
+  rotate: true
+  xy: 773, 9
+  size: 242, 273
+  orig: 242, 275
+  offset: 0, 0
+  index: -1
+zuocai-3
+  rotate: false
+  xy: 940, 532
+  size: 84, 111
+  orig: 86, 112
+  offset: 2, 1
+  index: -1
+zuocai-4
+  rotate: false
+  xy: 2, 62
+  size: 279, 581
+  orig: 279, 582
+  offset: 0, 1
+  index: -1
+zuocai-5
+  rotate: true
+  xy: 2, 13
+  size: 47, 108
+  orig: 47, 108
+  offset: 0, 0
+  index: -1

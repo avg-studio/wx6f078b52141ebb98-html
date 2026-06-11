@@ -1,0 +1,55 @@
+
+5006_xiaomaibu.png
+size: 628,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoren-1
+  rotate: false
+  xy: 2, 317
+  size: 281, 575
+  orig: 281, 575
+  offset: 0, 0
+  index: -1
+xiaohai-1
+  rotate: false
+  xy: 453, 480
+  size: 172, 412
+  orig: 194, 415
+  offset: 21, 3
+  index: -1
+xiaohai-2
+  rotate: false
+  xy: 460, 91
+  size: 153, 387
+  orig: 174, 391
+  offset: 21, 3
+  index: -1
+xiaohai-3
+  rotate: false
+  xy: 285, 455
+  size: 166, 437
+  orig: 187, 440
+  offset: 21, 3
+  index: -1
+xiaohai-4
+  rotate: true
+  xy: 285, 433
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+xiaohai-5
+  rotate: true
+  xy: 2, 2
+  size: 152, 406
+  orig: 173, 409
+  offset: 21, 3
+  index: -1
+xiaohai-6
+  rotate: true
+  xy: 2, 156
+  size: 159, 456
+  orig: 180, 459
+  offset: 21, 3
+  index: -1

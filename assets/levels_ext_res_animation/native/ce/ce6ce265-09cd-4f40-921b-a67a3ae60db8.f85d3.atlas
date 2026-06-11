@@ -1,0 +1,160 @@
+
+4307_girl.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2st-1
+  rotate: false
+  xy: 395, 373
+  size: 245, 649
+  orig: 246, 651
+  offset: 0, 0
+  index: -1
+2st-2
+  rotate: true
+  xy: 195, 27
+  size: 315, 641
+  orig: 316, 646
+  offset: 1, 1
+  index: -1
+2tou-1
+  rotate: true
+  xy: 992, 818
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1
+2tou-2
+  rotate: true
+  xy: 993, 571
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1
+3shou-1
+  rotate: true
+  xy: 915, 775
+  size: 247, 75
+  orig: 249, 77
+  offset: 1, 1
+  index: -1
+3shou-2
+  rotate: true
+  xy: 2, 26
+  size: 316, 191
+  orig: 316, 191
+  offset: 0, 0
+  index: -1
+3st-1
+  rotate: false
+  xy: 642, 375
+  size: 271, 647
+  orig: 271, 773
+  offset: 0, 0
+  index: -1
+3tou-1
+  rotate: true
+  xy: 1190, 818
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1
+3tou-2
+  rotate: true
+  xy: 942, 202
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1
+g-1
+  rotate: false
+  xy: 838, 26
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1
+nothing
+  rotate: false
+  xy: 2, 3
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+sl-1
+  rotate: true
+  xy: 992, 777
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+sl-2
+  rotate: false
+  xy: 2, 7
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+sl-3
+  rotate: true
+  xy: 912, 31
+  size: 91, 43
+  orig: 91, 43
+  offset: 0, 0
+  index: -1
+st-1
+  rotate: false
+  xy: 2, 344
+  size: 391, 678
+  orig: 394, 695
+  offset: 2, 1
+  index: -1
+tou-1
+  rotate: false
+  xy: 957, 2
+  size: 131, 198
+  orig: 131, 198
+  offset: 0, 0
+  index: -1
+tou-2
+  rotate: true
+  xy: 1110, 436
+  size: 133, 201
+  orig: 133, 201
+  offset: 0, 0
+  index: -1
+tou-3
+  rotate: false
+  xy: 1140, 233
+  size: 133, 201
+  orig: 133, 201
+  offset: 0, 0
+  index: -1
+tou-4
+  rotate: true
+  xy: 915, 408
+  size: 144, 193
+  orig: 144, 193
+  offset: 0, 0
+  index: -1
+tou-5
+  rotate: false
+  xy: 1090, 7
+  size: 144, 193
+  orig: 144, 193
+  offset: 0, 0
+  index: -1
+yz-1
+  rotate: true
+  xy: 915, 554
+  size: 219, 76
+  orig: 219, 76
+  offset: 0, 0
+  index: -1
+zj-1
+  rotate: true
+  xy: 838, 124
+  size: 249, 102
+  orig: 249, 102
+  offset: 0, 0
+  index: -1

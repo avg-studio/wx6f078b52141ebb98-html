@@ -1,0 +1,20 @@
+
+5128_gou.png
+size: 240,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou-1
+  rotate: false
+  xy: 2, 116
+  size: 215, 169
+  orig: 215, 169
+  offset: 0, 0
+  index: -1
+gou-2
+  rotate: false
+  xy: 2, 2
+  size: 236, 112
+  orig: 241, 123
+  offset: 5, 5
+  index: -1

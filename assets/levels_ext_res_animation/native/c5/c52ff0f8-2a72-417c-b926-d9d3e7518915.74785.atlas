@@ -1,0 +1,27 @@
+
+5043_laoren.png
+size: 1172,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoren-1
+  rotate: true
+  xy: 2, 2
+  size: 435, 781
+  orig: 468, 824
+  offset: 1, 42
+  index: -1
+laoren-2
+  rotate: true
+  xy: 785, 2
+  size: 140, 134
+  orig: 175, 152
+  offset: 17, 0
+  index: -1
+laoren-3
+  rotate: true
+  xy: 785, 144
+  size: 293, 382
+  orig: 295, 384
+  offset: 1, 1
+  index: -1

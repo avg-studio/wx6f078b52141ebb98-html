@@ -1,0 +1,83 @@
+
+5007_chengliang.png
+size: 456,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog1
+  rotate: false
+  xy: 2, 625
+  size: 282, 183
+  orig: 284, 183
+  offset: 2, 0
+  index: -1
+dog2
+  rotate: false
+  xy: 2, 414
+  size: 272, 209
+  orig: 272, 209
+  offset: 0, 0
+  index: -1
+lnn_1
+  rotate: true
+  xy: 2, 2
+  size: 204, 145
+  orig: 204, 145
+  offset: 0, 0
+  index: -1
+lnn_2
+  rotate: true
+  xy: 2, 810
+  size: 215, 387
+  orig: 215, 387
+  offset: 0, 0
+  index: -1
+lnn_3
+  rotate: true
+  xy: 2, 208
+  size: 204, 228
+  orig: 204, 228
+  offset: 0, 0
+  index: -1
+lnn_erji
+  rotate: true
+  xy: 391, 1010
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+xiaohai1
+  rotate: false
+  xy: 292, 2
+  size: 136, 185
+  orig: 142, 205
+  offset: 4, 8
+  index: -1
+xiaohai2
+  rotate: false
+  xy: 286, 530
+  size: 166, 278
+  orig: 168, 278
+  offset: 0, 0
+  index: -1
+xiaohai3
+  rotate: false
+  xy: 149, 9
+  size: 141, 197
+  orig: 171, 200
+  offset: 28, 3
+  index: -1
+xiaohai4
+  rotate: false
+  xy: 292, 189
+  size: 145, 131
+  orig: 198, 132
+  offset: 51, 1
+  index: -1
+xiaohai5
+  rotate: false
+  xy: 276, 322
+  size: 165, 206
+  orig: 168, 208
+  offset: 0, 1
+  index: -1

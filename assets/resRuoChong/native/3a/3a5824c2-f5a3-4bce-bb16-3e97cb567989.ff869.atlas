@@ -1,0 +1,41 @@
+
+4DjTx.png
+size: 288,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Love
+  rotate: false
+  xy: 2, 2
+  size: 108, 92
+  orig: 110, 93
+  offset: 1, 1
+  index: -1
+Love1
+  rotate: false
+  xy: 112, 10
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+Love2
+  rotate: false
+  xy: 176, 10
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 239, 47
+  size: 45, 47
+  orig: 64, 64
+  offset: 10, 6
+  index: -1
+lizi3
+  rotate: true
+  xy: 239, 2
+  size: 43, 47
+  orig: 64, 64
+  offset: 5, 7
+  index: -1

@@ -1,0 +1,62 @@
+
+4308_girl.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou-1
+  rotate: true
+  xy: 833, 385
+  size: 123, 102
+  orig: 123, 104
+  offset: 0, 1
+  index: -1
+shou-2
+  rotate: false
+  xy: 679, 2
+  size: 122, 106
+  orig: 124, 108
+  offset: 1, 1
+  index: -1
+st-1
+  rotate: true
+  xy: 2, 31
+  size: 477, 540
+  orig: 477, 541
+  offset: 0, 0
+  index: -1
+tou-1
+  rotate: false
+  xy: 623, 309
+  size: 208, 199
+  orig: 208, 199
+  offset: 0, 0
+  index: -1
+tou-2
+  rotate: false
+  xy: 679, 110
+  size: 207, 197
+  orig: 207, 197
+  offset: 0, 0
+  index: -1
+yz-1
+  rotate: true
+  xy: 544, 153
+  size: 355, 77
+  orig: 355, 77
+  offset: 0, 0
+  index: -1
+zj-1
+  rotate: false
+  xy: 544, 44
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+zj-2
+  rotate: true
+  xy: 803, 15
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
