@@ -1,0 +1,1 @@
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"readme","\n- the runtime.js plugin is used to support async\n\n- Level management main related classes\n  - LevelMgr\n  - LevelCfg  (LevelLocalCfg, LevelWebCfg)\n  - window.LevelUtils  (written by Yingjie)\n  - LevelOrderManager (old project)\n"]],0,0,[],[],[]]
